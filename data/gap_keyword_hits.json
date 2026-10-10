@@ -1,0 +1,1596 @@
+{
+ "Knowledge editing / unlearning": {
+  "count": 0,
+  "papers": []
+ },
+ "Memorization / privacy": {
+  "count": 6,
+  "papers": [
+   {
+    "key": "t:latency minimal decentralized lam training with looped transformers in heterogeneous leo satellite constellations",
+    "title": "Latency-Minimal Decentralized LAM Training with Looped Transformers in Heterogeneous LEO Satellite Constellations"
+   },
+   {
+    "key": "2502.17416",
+    "title": "Reasoning with Latent Thoughts: On the Power of Looped Transformers"
+   },
+   {
+    "key": "2605.21488",
+    "title": "Equilibrium Reasoners: Learning Attractors Enables Scalable Reasoning"
+   },
+   {
+    "key": "2508.16745",
+    "title": "Beyond Memorization: Extending Reasoning Depth with Recurrence, Memory and Test-Time Compute Scaling"
+   },
+   {
+    "key": "2604.07822",
+    "title": "Loop, Think, & Generalize: Implicit Reasoning in Recurrent-Depth Transformers"
+   },
+   {
+    "key": "2604.15259",
+    "title": "Stability and Generalization in Looped Transformers"
+   }
+  ]
+ },
+ "Safety alignment / jailbreaks / refusal": {
+  "count": 3,
+  "papers": [
+   {
+    "key": "2607.27656",
+    "title": "Looped Transformers with Source-Centered State Evolution"
+   },
+   {
+    "key": "2609.16665",
+    "title": "Right Direction, Wrong Step: Geometric Analysis of Finite-Step Failure in Looped Transformers"
+   },
+   {
+    "key": "2606.31796",
+    "title": "CHERRY: Compressed Hierarchical Experts with Recurrent Representational Yield"
+   }
+  ]
+ },
+ "Monitorability / faithfulness": {
+  "count": 6,
+  "papers": [
+   {
+    "key": "2610.02741",
+    "title": "On the Chain-of-Thought Monitorability of Looped Language Models"
+   },
+   {
+    "key": "2609.33144",
+    "title": "Beyond the Training Horizon: Mechanisms and Limits of Length Generalization in Looped Transformers"
+   },
+   {
+    "key": "2606.18208",
+    "title": "Looped World Models"
+   },
+   {
+    "key": "2605.13872",
+    "title": "S-AI-Recursive: Convergent Recursive Reasoning"
+   },
+   {
+    "key": "2605.15309",
+    "title": "One Pass Is Not Enough: Recursive Latent Refinement for Generative Models"
+   },
+   {
+    "key": "2606.06188",
+    "title": "The Tell-Tale Norm: $\\ell_2$ Magnitude as a Signal for Reasoning Dynamics in Large Language Models"
+   }
+  ]
+ },
+ "Adversarial robustness": {
+  "count": 4,
+  "papers": [
+   {
+    "key": "2609.05988",
+    "title": "DART: Distributional Adversarial Recurrent Training for Algorithm Learning"
+   },
+   {
+    "key": "2609.11516",
+    "title": "LoopVAE: Recurrent Depth Across Scales for Visual Tokenization"
+   },
+   {
+    "key": "2607.18553",
+    "title": "Operational Proto-Introspection in Looped Language Models: Process-Quality Taps, Executable Branching, and the Readout-Control Boundary"
+   },
+   {
+    "key": "2608.15694",
+    "title": "RRFC: Recursive Refinement via Feedback Conditioning for Iterative Image-to-Image Generation"
+   }
+  ]
+ },
+ "Hallucination / calibration / uncertainty": {
+  "count": 12,
+  "papers": [
+   {
+    "key": "2603.15641",
+    "title": "Form Follows Function: Recursive Stem Model"
+   },
+   {
+    "key": "2602.02156",
+    "title": "LoopViT: Scaling Visual ARC with Looped Transformers"
+   },
+   {
+    "key": "2601.07675",
+    "title": "Tab-TRM: Tiny Recursive Model for Insurance Pricing on Tabular Data"
+   },
+   {
+    "key": "2609.30820",
+    "title": "Quantizing Looped Transformers: Feedback Exposure and Calibration Blindness"
+   },
+   {
+    "key": "2606.26488",
+    "title": "What Survives When You Compress a Recursive Reasoner for the Edge?"
+   },
+   {
+    "key": "2605.17811",
+    "title": "One Model, Two Roles: Emergent Specialization in a Shared Recurrent Transformer"
+   },
+   {
+    "key": "2605.13872",
+    "title": "S-AI-Recursive: Convergent Recursive Reasoning"
+   },
+   {
+    "key": "2606.16620",
+    "title": "Entropy-Gated Latent Recursion"
+   },
+   {
+    "key": "2605.26733",
+    "title": "Stabilizing Recurrent Dynamics for Test-Time Scalable Latent Reasoning in Looped Language Models"
+   },
+   {
+    "key": "t:a tiny recursive multi head model for semantic traffic sign recognition in autonomous robotics",
+    "title": "A Tiny Recursive Multi-Head Model for Semantic Traffic Sign Recognition in Autonomous Robotics"
+   },
+   {
+    "key": "2602.05359",
+    "title": "Multimodal Latent Reasoning via Hierarchical Visual Cues Injection"
+   },
+   {
+    "key": "t:idiffpose equilibrium substitution for lightweight diffusion graph based pose estimation",
+    "title": "IDiffPose: Equilibrium Substitution for Lightweight Diffusion-Graph-Based Pose Estimation"
+   }
+  ]
+ },
+ "Multilingual": {
+  "count": 5,
+  "papers": [
+   {
+    "key": "t:optimization driven parameter sharing via neural architecture search for transformer models in machine translation",
+    "title": "Optimization-driven parameter sharing via neural architecture search for transformer models in machine translation"
+   },
+   {
+    "key": "t:nict s participation in wat 2018 approaches using multilingualism and recurrently stacked layers",
+    "title": "NICT\u2019s Participation in WAT 2018: Approaches Using Multilingualism and Recurrently Stacked Layers"
+   },
+   {
+    "key": "2607.18618",
+    "title": "LatentMT: Machine Translation with Latent Reasoning"
+   },
+   {
+    "key": "2603.14593",
+    "title": "Parameter-Efficient Quality Estimation via Frozen Recursive Models"
+   },
+   {
+    "key": "2607.05051",
+    "title": "Listen, Think, Transcribe: Continuous Latent Test-Time Scaling for ASR"
+   }
+  ]
+ },
+ "Long context / retrieval": {
+  "count": 5,
+  "papers": [
+   {
+    "key": "2609.29812",
+    "title": "FlashLoop: Fast and Memory-Efficient Looped Transformers via Lazy Updates"
+   },
+   {
+    "key": "2604.01220",
+    "title": "Universal YOCO for Efficient Depth Scaling"
+   },
+   {
+    "key": "2601.21420",
+    "title": "ConceptMoE: Adaptive Token-to-Concept Compression for Implicit Compute Allocation"
+   },
+   {
+    "key": "2308.09564",
+    "title": "Deep Equilibrium Object Detection"
+   },
+   {
+    "key": "t:deep equilibrium object detection and segmentation",
+    "title": "Deep Equilibrium Object Detection and Segmentation"
+   }
+  ]
+ },
+ "Agents / tool use": {
+  "count": 13,
+  "papers": [
+   {
+    "key": "2609.37432",
+    "title": "Looped Actor: Depth-Recurrent Reasoning Models for Reinforcement Learning"
+   },
+   {
+    "key": "2605.20784",
+    "title": "Interaction Locality in Hierarchical Recursive Reasoning"
+   },
+   {
+    "key": "t:deep reinforcement learning with transformers for text adventure games",
+    "title": "Deep Reinforcement Learning with Transformers for Text Adventure Games"
+   },
+   {
+    "key": "2609.21108",
+    "title": "REFINEPPO: Learning Continuous Control Policies by Iterative Action Refinement"
+   },
+   {
+    "key": "2608.13987",
+    "title": "Nanbeige4.2-3B on Apple Silicon: Fixing Deployment Bugs and Decreasing Looped Transformer Memory Overhead"
+   },
+   {
+    "key": "2510.22832",
+    "title": "HRM-Agent: Training a recurrent reasoning model in dynamic environments using reinforcement learning"
+   },
+   {
+    "key": "2608.18171",
+    "title": "Looped Language Models Improve Compositional Tool Calling"
+   },
+   {
+    "key": "2605.13872",
+    "title": "S-AI-Recursive: Convergent Recursive Reasoning"
+   },
+   {
+    "key": "2604.01220",
+    "title": "Universal YOCO for Efficient Depth Scaling"
+   },
+   {
+    "key": "2607.22083",
+    "title": "Nanbeige4.2-3B: Unlocking Agentic Capabilities in a Compact Model"
+   },
+   {
+    "key": "2606.18023",
+    "title": "LoopCoder-v2: Only Loop Once for Efficient Test-Time Computation Scaling"
+   },
+   {
+    "key": "2401.12819",
+    "title": "Dynamic Layer Tying for Parameter-Efficient Transformers"
+   },
+   {
+    "key": "1901.03559",
+    "title": "An investigation of model-free planning"
+   }
+  ]
+ },
+ "Continual / test-time training": {
+  "count": 2,
+  "papers": [
+   {
+    "key": "2511.21882",
+    "title": "Closed-Loop Transformers: Autoregressive Modeling as Iterative Latent Equilibrium"
+   },
+   {
+    "key": "2502.10954",
+    "title": "Learning to Stop Overthinking at Test Time"
+   }
+  ]
+ },
+ "Data curricula for recurrence": {
+  "count": 10,
+  "papers": [
+   {
+    "key": "2609.01449",
+    "title": "Diffusion as a Training Curriculum for Timestep-Free Iterative Reasoning"
+   },
+   {
+    "key": "2608.06014",
+    "title": "Iterate or Widen? When Test-Time Refinement Helps LiDAR Scene Completion: A Controlled Study of Evidence Geometry, Training Coverage, and Compute"
+   },
+   {
+    "key": "2607.25915",
+    "title": "Penelope: Localized Latent Recurrence for Efficient Structured Reasoning"
+   },
+   {
+    "key": "2511.07384",
+    "title": "Teaching Pretrained Language Models to Think Deeper with Retrofitted Recurrence"
+   },
+   {
+    "key": "2607.20594",
+    "title": "When Does Recurrence Become an Algorithm? Convergence Selection in Weight-Tied Looped Transformers"
+   },
+   {
+    "key": "2604.18839",
+    "title": "One Step Forward and K Steps Back: Better Reasoning with Denoising Recursion Models"
+   },
+   {
+    "key": "2511.08653",
+    "title": "Accelerating Training Speed of Tiny Recursive Models with Curriculum Guided Adaptive Recursion"
+   },
+   {
+    "key": "2502.07827",
+    "title": "Implicit Language Models are RNNs: Balancing Parallelization and Expressivity"
+   },
+   {
+    "key": "2508.20650",
+    "title": "Self-composing neural operators for high-frequency and multiscale PDE surrogates"
+   },
+   {
+    "key": "2402.15393",
+    "title": "NeuralSolver: Learning Algorithms For Consistent and Efficient Extrapolation Across General Tasks"
+   }
+  ]
+ },
+ "Fairness / bias": {
+  "count": 0,
+  "papers": []
+ },
+ "Energy / carbon accounting": {
+  "count": 1,
+  "papers": [
+   {
+    "key": "t:energy aware deep learning on gpus through parameter sharing and mixed precision training",
+    "title": "Energy-Aware Deep Learning on GPUs through Parameter Sharing and Mixed Precision Training"
+   }
+  ]
+ },
+ "Quantization / compression": {
+  "count": 50,
+  "papers": [
+   {
+    "key": "2609.36126",
+    "title": "Reasoning with Neural Cellular Automata"
+   },
+   {
+    "key": "2609.29812",
+    "title": "FlashLoop: Fast and Memory-Efficient Looped Transformers via Lazy Updates"
+   },
+   {
+    "key": "2605.30757",
+    "title": "Chain-of-Thought and Compressed Looped Transformers: A Memory-Budget Separation"
+   },
+   {
+    "key": "2508.16134",
+    "title": "CommonKV: Compressing KV Cache with Cross-layer Parameter Sharing"
+   },
+   {
+    "key": "2004.13139",
+    "title": "A Generic Network Compression Framework for Sequential Recommender Systems"
+   },
+   {
+    "key": "2609.39277",
+    "title": "A Tilted Bowl Is Not a Slippery Slope: Compressing Looped Models"
+   },
+   {
+    "key": "2604.14442",
+    "title": "Hierarchical vs. Flat Iteration in Shared-Weight Transformers"
+   },
+   {
+    "key": "2603.19714",
+    "title": "LoopRPT: Reinforcement Pre-Training for Looped Language Models"
+   },
+   {
+    "key": "2602.11698",
+    "title": "SpiralFormer: Looped Transformers Can Learn Hierarchical Dependencies via Multi-Resolution Recursion"
+   },
+   {
+    "key": "2508.04581",
+    "title": "Share Your Attention: Transformer Weight Sharing via Matrix-based Dictionary Learning"
+   },
+   {
+    "key": "2410.03765",
+    "title": "Basis Sharing: Cross-Layer Parameter Sharing for Large Language Model Compression"
+   },
+   {
+    "key": "2207.10237",
+    "title": "SPIN: An Empirical Evaluation on Sharing Parameters of Isotropic Networks"
+   },
+   {
+    "key": "2609.24042",
+    "title": "Q-DEQ: Discrete Solving and Quantization for Deep Equilibrium Models in Time Series Forecasting under Edge Deployment Coding Constraints"
+   },
+   {
+    "key": "2607.16237",
+    "title": "Quantizing Recursive Reasoning Models"
+   },
+   {
+    "key": "2603.22871",
+    "title": "Dynamical Systems Theory Behind a Hierarchical Reasoning Model"
+   },
+   {
+    "key": "2205.07582",
+    "title": "Chemical transformer compression for accelerating both training and inference of molecular modeling"
+   },
+   {
+    "key": "2610.03626",
+    "title": "Depth as Time in One-Step Generative Models"
+   },
+   {
+    "key": "2609.30820",
+    "title": "Quantizing Looped Transformers: Feedback Exposure and Calibration Blindness"
+   },
+   {
+    "key": "2606.26488",
+    "title": "What Survives When You Compress a Recursive Reasoner for the Edge?"
+   },
+   {
+    "key": "2604.21254",
+    "title": "Hyperloop Transformers"
+   },
+   {
+    "key": "2512.14531",
+    "title": "VersatileFFN: Achieving Parameter Efficiency in LLMs via Adaptive Wide-and-Deep Reuse"
+   },
+   {
+    "key": "2511.06786",
+    "title": "Rethinking Parameter Sharing as Graph Coloring for Structured Compression"
+   },
+   {
+    "key": "2411.09816",
+    "title": "Learning Fine-grained Parameter Sharing via Sparse Tensor Decomposition"
+   },
+   {
+    "key": "2609.01550",
+    "title": "Linear Reusable Neural Bases Architecture for Network Compression"
+   },
+   {
+    "key": "2607.18856",
+    "title": "Think Sparse, Predict Dense: Continuous Thought Machines for Image Super-Resolution"
+   },
+   {
+    "key": "2607.15456",
+    "title": "Looped Latent Attention: Cross-Loop KV Compression for Looped Transformers"
+   },
+   {
+    "key": "2605.16343",
+    "title": "LoopQ: Quantization for Recursive Transformers"
+   },
+   {
+    "key": "2604.17224",
+    "title": "LASER: Low-Rank Activation SVD for Efficient Recursion"
+   },
+   {
+    "key": "2603.01914",
+    "title": "AdaPonderLM: Gated Pondering Language Models with Token-Wise Adaptive Depth"
+   },
+   {
+    "key": "t:sharvet similarity aware parameter sharing with vector based tuning for efficient llm compression",
+    "title": "SharVeT: Similarity-aware Parameter Sharing with Vector-based Tuning for Efficient LLM Compression"
+   },
+   {
+    "key": "2509.00174",
+    "title": "Principled Approximation Methods for Efficient and Scalable Deep Learning"
+   },
+   {
+    "key": "2507.07996",
+    "title": "Skip a Layer or Loop it? Test-Time Depth Adaptation of Pretrained LLMs"
+   },
+   {
+    "key": "2501.18596",
+    "title": "DeltaLLM: Compress LLMs with Low-Rank Deltas between Shared Weights"
+   },
+   {
+    "key": "t:pet parameter efficient knowledge distillation on transformer",
+    "title": "PET: Parameter-efficient Knowledge Distillation on Transformer"
+   },
+   {
+    "key": "2107.11817",
+    "title": "Go Wider Instead of Deeper"
+   },
+   {
+    "key": "2609.19934",
+    "title": "Beyond Depth Truncation: Controlled Evaluation of Depth Utilization in Recursive Language Models"
+   },
+   {
+    "key": "2608.14290",
+    "title": "Intern-S2-Mobius: Foundation Model with Decoupled Knowledge and Reasoning"
+   },
+   {
+    "key": "2607.12945",
+    "title": "RecRec: Latent Interests Recursive Reasoning for Sequential Recommendation"
+   },
+   {
+    "key": "2606.31796",
+    "title": "CHERRY: Compressed Hierarchical Experts with Recurrent Representational Yield"
+   },
+   {
+    "key": "2601.21420",
+    "title": "ConceptMoE: Adaptive Token-to-Concept Compression for Implicit Compute Allocation"
+   },
+   {
+    "key": "t:sharedab detr memory efficient object detection through centralbank parameter sharing",
+    "title": "ShareDAB-DETR: Memory-Efficient Object Detection through CentralBank Parameter Sharing"
+   },
+   {
+    "key": "2605.10661",
+    "title": "Investigating Single-Block Recurrence in Vision Transformers for Image Recognition"
+   },
+   {
+    "key": "2604.25930",
+    "title": "Associative-State Universal Transformers: Sparse Retrieval Meets Structured Recurrence"
+   },
+   {
+    "key": "2512.12880",
+    "title": "Improving Recursive Transformers with Mixture of LoRAs"
+   },
+   {
+    "key": "t:memory efficient model growth for finetuning automatic speech recognition models",
+    "title": "Memory-efficient Model Growth for Finetuning Automatic Speech Recognition Models"
+   },
+   {
+    "key": "2501.14713",
+    "title": "FlexiGPT: Pruning and Extending Large Language Models with Low-Rank Weight Sharing"
+   },
+   {
+    "key": "2501.06126",
+    "title": "Merging Feed-Forward Sublayers for Compressed Transformers"
+   },
+   {
+    "key": "2107.07110",
+    "title": "Compact and Optimal Deep Learning with Recurrent Parameter Generators"
+   },
+   {
+    "key": "2411.02393",
+    "title": "Adaptive Length Image Tokenization via Recurrent Allocation"
+   },
+   {
+    "key": "2204.07154",
+    "title": "MiniViT: Compressing Vision Transformers with Weight Multiplexing"
+   }
+  ]
+ },
+ "KV cache / memory": {
+  "count": 10,
+  "papers": [
+   {
+    "key": "2609.29812",
+    "title": "FlashLoop: Fast and Memory-Efficient Looped Transformers via Lazy Updates"
+   },
+   {
+    "key": "2508.16134",
+    "title": "CommonKV: Compressing KV Cache with Cross-layer Parameter Sharing"
+   },
+   {
+    "key": "2510.24824",
+    "title": "Parallel Loop Transformer for Efficient Test-Time Computation Scaling"
+   },
+   {
+    "key": "2605.07721",
+    "title": "Memory-Efficient Looped Transformer: Decoupling Compute from Memory in Looped Language Models"
+   },
+   {
+    "key": "2609.01343",
+    "title": "SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers"
+   },
+   {
+    "key": "2604.01220",
+    "title": "Universal YOCO for Efficient Depth Scaling"
+   },
+   {
+    "key": "2610.02383",
+    "title": "The Surprising Effectiveness of Shared Memory in Looped Transformers"
+   },
+   {
+    "key": "2601.21420",
+    "title": "ConceptMoE: Adaptive Token-to-Concept Compression for Implicit Compute Allocation"
+   },
+   {
+    "key": "2609.15160",
+    "title": "T-LoopFormer: Token-Level Elastic-Depth Looped Transformers for Latent Reasoning with Dynamic Routing"
+   },
+   {
+    "key": "2606.18023",
+    "title": "LoopCoder-v2: Only Loop Once for Efficient Test-Time Computation Scaling"
+   }
+  ]
+ },
+ "Speculative / parallel decoding": {
+  "count": 8,
+  "papers": [
+   {
+    "key": "2501.15665",
+    "title": "StagFormer: Time Staggering Transformer Decoding for RunningLayers In Parallel"
+   },
+   {
+    "key": "2310.12072",
+    "title": "SPEED: Speculative Pipelined Execution for Efficient Decoding"
+   },
+   {
+    "key": "2609.34538",
+    "title": "Shallow Queries, Mature Values: Depth-Asynchronous Self-Speculation for Looped Transformers"
+   },
+   {
+    "key": "2606.18022",
+    "title": "Recursive Scaling in Masked Diffusion Models"
+   },
+   {
+    "key": "2605.31215",
+    "title": "Fixed-Point Masked Generative Modeling"
+   },
+   {
+    "key": "2609.17184",
+    "title": "LoopSpec: Pipelined Self-Speculative Decoding for Looped Transformers"
+   },
+   {
+    "key": "2509.05915",
+    "title": "Accelerating Large Language Model Inference via Early-Exiting Algorithms"
+   },
+   {
+    "key": "2609.23033",
+    "title": "WaveFront Decoding: Parallelized Self-Speculative Decoding for Looped Language Models"
+   }
+  ]
+ },
+ "Scaling laws": {
+  "count": 11,
+  "papers": [
+   {
+    "key": "2610.01981",
+    "title": "Universal interpolation for deep residual self-attention networks"
+   },
+   {
+    "key": "2604.21106",
+    "title": "How Much Is One Recurrence Worth? Iso-Depth Scaling Laws for Looped Language Models"
+   },
+   {
+    "key": "2502.17416",
+    "title": "Reasoning with Latent Thoughts: On the Power of Looped Transformers"
+   },
+   {
+    "key": "2502.07503",
+    "title": "Recursive Inference Scaling: A Winning Path to Scalable Inference in Language and Multimodal Systems"
+   },
+   {
+    "key": "2207.10551",
+    "title": "Scaling Laws vs Model Architectures: How does Inductive Bias Influence Scaling?"
+   },
+   {
+    "key": "2506.18233",
+    "title": "Beyond Parameters: Exploring Virtual Logic Depth for Scaling Laws"
+   },
+   {
+    "key": "2609.40316",
+    "title": "Scaling Laws for Looped Mixture of Experts"
+   },
+   {
+    "key": "2609.01343",
+    "title": "SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers"
+   },
+   {
+    "key": "2609.19107",
+    "title": "How Model Growth, Recursion, and Boundary Operators Influence Scaling Exponents"
+   },
+   {
+    "key": "2604.12946",
+    "title": "Parcae: Scaling Laws For Stable Looped Language Models"
+   },
+   {
+    "key": "2608.26556",
+    "title": "Dynamical phase selection controls compute scaling in looped transformers"
+   }
+  ]
+ },
+ "Interpretability": {
+  "count": 142,
+  "papers": [
+   {
+    "key": "2609.22197",
+    "title": "Dissecting Hierarchical Reasoning Models: A Mechanistic Study"
+   },
+   {
+    "key": "2606.18206",
+    "title": "Fixed-Point Reasoners: Stable and Adaptive Deep Looped Transformers"
+   },
+   {
+    "key": "2606.03287",
+    "title": "BA-T: An Iterative Transformer for Two-View Bundle Adjustment"
+   },
+   {
+    "key": "2605.19943",
+    "title": "Probabilistic Tiny Recursive Model"
+   },
+   {
+    "key": "2604.21106",
+    "title": "How Much Is One Recurrence Worth? Iso-Depth Scaling Laws for Looped Language Models"
+   },
+   {
+    "key": "2604.09870",
+    "title": "Relational Preference Encoding in Looped Transformer Internal States"
+   },
+   {
+    "key": "t:layer duplication in llms",
+    "title": "Layer Duplication in LLMs"
+   },
+   {
+    "key": "2410.11279",
+    "title": "Advancing the Understanding of Fixed Point Iterations in Deep Neural Networks: A Detailed Analytical Study"
+   },
+   {
+    "key": "2310.07096",
+    "title": "Sparse Universal Transformer"
+   },
+   {
+    "key": "2207.02536",
+    "title": "Transformers discover an elementary calculation system exploiting local attention and grid-like problem representation"
+   },
+   {
+    "key": "2108.10986",
+    "title": "Using BERT Encoding and Sentence-Level Language Model for Sentence Ordering"
+   },
+   {
+    "key": "2003.00166",
+    "title": "Depth-Adaptive Graph Recurrent Network for Text Classification"
+   },
+   {
+    "key": "1812.02825",
+    "title": "Attending to Mathematical Language with Transformers"
+   },
+   {
+    "key": "2609.33144",
+    "title": "Beyond the Training Horizon: Mechanisms and Limits of Length Generalization in Looped Transformers"
+   },
+   {
+    "key": "2609.32785",
+    "title": "Learning When to Recur: Token-Adaptive Recursion for Imbalanced Ophthalmic Domain Incremental Learning"
+   },
+   {
+    "key": "2609.15498",
+    "title": "Same path, different: a mechanistic comparison of looped and stacked transformer encoders on 12-lead ECG"
+   },
+   {
+    "key": "2609.01449",
+    "title": "Diffusion as a Training Curriculum for Timestep-Free Iterative Reasoning"
+   },
+   {
+    "key": "2608.06014",
+    "title": "Iterate or Widen? When Test-Time Refinement Helps LiDAR Scene Completion: A Controlled Study of Evidence Geometry, Training Coverage, and Compute"
+   },
+   {
+    "key": "2608.05160",
+    "title": "The Ignition Index: Measuring Global Workspace Dynamics in Language Models"
+   },
+   {
+    "key": "2605.21488",
+    "title": "Equilibrium Reasoners: Learning Attractors Enables Scalable Reasoning"
+   },
+   {
+    "key": "2604.11791",
+    "title": "A Mechanistic Analysis of Looped Reasoning Language Models"
+   },
+   {
+    "key": "2603.29057",
+    "title": "LA-Sign: Looped Transformers with Geometry-aware Alignment for Skeleton-based Sign Language Recognition"
+   },
+   {
+    "key": "2603.23998",
+    "title": "Sparse Growing Transformer: Training-Time Sparse Depth Allocation via Progressive Attention Looping"
+   },
+   {
+    "key": "2603.11680",
+    "title": "UCAN: Unified Convolutional Attention Network for Expansive Receptive Fields in Lightweight Super-Resolution"
+   },
+   {
+    "key": "2603.08391",
+    "title": "Adaptive Loops and Memory in Transformers: Think Harder or Know More?"
+   },
+   {
+    "key": "2603.05234",
+    "title": "Recursive Inference Machines for Neural Reasoning"
+   },
+   {
+    "key": "2602.11698",
+    "title": "SpiralFormer: Looped Transformers Can Learn Hierarchical Dependencies via Multi-Resolution Recursion"
+   },
+   {
+    "key": "2602.09080",
+    "title": "Looping Back to Move Forward: Recursive Transformers for Efficient and Flexible Large Multimodal Models"
+   },
+   {
+    "key": "2602.00927",
+    "title": "Beyond What Seems Necessary: Hidden Gains from Scaling Training-Time Reasoning Length under Outcome Supervision"
+   },
+   {
+    "key": "t:efficient transformer parameter reuse via zero token mechanism",
+    "title": "Efficient Transformer Parameter Reuse via Zero-Token Mechanism"
+   },
+   {
+    "key": "2512.19941",
+    "title": "Block-Recurrent Dynamics in Vision Transformers"
+   },
+   {
+    "key": "2510.07358",
+    "title": "Encode, Think, Decode: Scaling test-time reasoning with recursive latent thoughts"
+   },
+   {
+    "key": "2506.22389",
+    "title": "Towards Distributed Neural Architectures"
+   },
+   {
+    "key": "2502.11646",
+    "title": "Hyper-SET: Designing Transformers via Hyperspherical Energy Minimization"
+   },
+   {
+    "key": "2301.13196",
+    "title": "Looped Transformers as Programmable Computers"
+   },
+   {
+    "key": "2204.03276",
+    "title": "PALBERT: Teaching ALBERT to Ponder"
+   },
+   {
+    "key": "t:leveraging relaxed equilibrium by lazy transition for sequence modeling",
+    "title": "Leveraging Relaxed Equilibrium by Lazy Transition for Sequence Modeling"
+   },
+   {
+    "key": "2108.10417",
+    "title": "Recurrent multiple shared layers in Depth for Neural Machine Translation"
+   },
+   {
+    "key": "2610.00368",
+    "title": "DeepJEPA: Scaling World Models from Within"
+   },
+   {
+    "key": "2609.28809",
+    "title": "Stream Recursion Model (SRM)"
+   },
+   {
+    "key": "2608.06727",
+    "title": "bioMoR: Biology-Guided Mixture-of-Recursions for Effective Genomic Learning"
+   },
+   {
+    "key": "t:mor swin efficient vision transformer using mixture of recursions",
+    "title": "MoR\u2013Swin: Efficient Vision Transformer Using Mixture of Recursions"
+   },
+   {
+    "key": "2606.31779",
+    "title": "Bridging the Gap Between Latent and Explicit Reasoning with Looped Transformers"
+   },
+   {
+    "key": "2606.18022",
+    "title": "Recursive Scaling in Masked Diffusion Models"
+   },
+   {
+    "key": "t:optimization driven parameter sharing via neural architecture search for transformer models in machine translation",
+    "title": "Optimization-driven parameter sharing via neural architecture search for transformer models in machine translation"
+   },
+   {
+    "key": "2605.18464",
+    "title": "PERL: Parameter Efficient Reasoning in CLIP Latent Space"
+   },
+   {
+    "key": "2603.08082",
+    "title": "Tiny Autoregressive Recursive Models"
+   },
+   {
+    "key": "2602.16490",
+    "title": "From Growing to Looping: A Unified View of Iterative Computation in LLMs"
+   },
+   {
+    "key": "2602.10097",
+    "title": "Step-resolved data attribution for looped transformers"
+   },
+   {
+    "key": "2602.02156",
+    "title": "LoopViT: Scaling Visual ARC with Looped Transformers"
+   },
+   {
+    "key": "2506.18945",
+    "title": "Chain-of-Experts: Unlocking the Communication Power of Mixture-of-Experts Models"
+   },
+   {
+    "key": "2108.09119",
+    "title": "Semantic Communication with Adaptive Universal Transformer"
+   },
+   {
+    "key": "2610.03626",
+    "title": "Depth as Time in One-Step Generative Models"
+   },
+   {
+    "key": "2609.21108",
+    "title": "REFINEPPO: Learning Continuous Control Policies by Iterative Action Refinement"
+   },
+   {
+    "key": "2608.02050",
+    "title": "TextNCA: Neural Cellular Automata for Language Modeling via Hierarchical Local Attention"
+   },
+   {
+    "key": "2607.18618",
+    "title": "LatentMT: Machine Translation with Latent Reasoning"
+   },
+   {
+    "key": "2607.10681",
+    "title": "LayerNorm as Implicit Gain Control in Looped Transformers"
+   },
+   {
+    "key": "2606.00605",
+    "title": "Looped Transformers with Layer Normalization Provably Learn the Power Method"
+   },
+   {
+    "key": "2605.30202",
+    "title": "A Dual-Path Architecture for Scaling Compute and Capacity in LLMs"
+   },
+   {
+    "key": "2605.18797",
+    "title": "Simply Stabilizing the Loop via Fully Looped Transformer"
+   },
+   {
+    "key": "2605.07721",
+    "title": "Memory-Efficient Looped Transformer: Decoupling Compute from Memory in Looped Language Models"
+   },
+   {
+    "key": "2605.06322",
+    "title": "SMolLM: Small Language Models Learn Small Molecular Grammar"
+   },
+   {
+    "key": "2601.09588",
+    "title": "Energy-Entropy Regularization: The True Power of Minimal Looped Transformers"
+   },
+   {
+    "key": "2510.07739",
+    "title": "MeSH: Memory-as-State-Highways for Recursive Transformers"
+   },
+   {
+    "key": "2509.26314",
+    "title": "Latent Thinking Optimization: Your Latent Reasoning Language Model Secretly Encodes Reward Signals in Its Latent Thoughts"
+   },
+   {
+    "key": "2509.23314",
+    "title": "Two-Scale Latent Dynamics for Recurrent-Depth Transformers"
+   },
+   {
+    "key": "2507.02199",
+    "title": "Latent Chain-of-Thought? Decoding the Depth-Recurrent Transformer"
+   },
+   {
+    "key": "2502.12214",
+    "title": "Zero Token-Driven Deep Thinking in LLMs: Unlocking the Full Potential of Existing Parameters via Cyclic Refinement"
+   },
+   {
+    "key": "2312.01423",
+    "title": "Self-Critical Alternate Learning based Semantic Broadcast Communication"
+   },
+   {
+    "key": "2111.05297",
+    "title": "Sliced Recursive Transformer"
+   },
+   {
+    "key": "1905.06638",
+    "title": "Latent Universal Task-Specific BERT"
+   },
+   {
+    "key": "2609.16665",
+    "title": "Right Direction, Wrong Step: Geometric Analysis of Finite-Step Failure in Looped Transformers"
+   },
+   {
+    "key": "2609.01343",
+    "title": "SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers"
+   },
+   {
+    "key": "2608.11233",
+    "title": "Retrofitting Recurrent Depth into a Pretrained Language Model: Installation, Extrapolation, Transfer, and Retention at Two Parameter Budgets"
+   },
+   {
+    "key": "2607.18856",
+    "title": "Think Sparse, Predict Dense: Continuous Thought Machines for Image Super-Resolution"
+   },
+   {
+    "key": "2606.29150",
+    "title": "Flow Reasoning Models: Turning Flows Into Efficient Recurrent Reasoners"
+   },
+   {
+    "key": "2605.28919",
+    "title": "CosmicFish-HRM: Adaptive Reasoning via Hierarchical Recurrent Mechanisms in Compact Language Models"
+   },
+   {
+    "key": "2605.17811",
+    "title": "One Model, Two Roles: Emergent Specialization in a Shared Recurrent Transformer"
+   },
+   {
+    "key": "2605.11011",
+    "title": "LoopUS: Recasting Pretrained LLMs into Looped Latent Refinement Models"
+   },
+   {
+    "key": "2604.27981",
+    "title": "ITS-Mina: A Harris Hawks Optimization-Based All-MLP Framework with Iterative Refinement and External Attention for Multivariate Time Series Forecasting"
+   },
+   {
+    "key": "2604.17224",
+    "title": "LASER: Low-Rank Activation SVD for Efficient Recursion"
+   },
+   {
+    "key": "2604.07822",
+    "title": "Loop, Think, & Generalize: Implicit Reasoning in Recurrent-Depth Transformers"
+   },
+   {
+    "key": "2603.01914",
+    "title": "AdaPonderLM: Gated Pondering Language Models with Token-Wise Adaptive Depth"
+   },
+   {
+    "key": "2602.14759",
+    "title": "Inner Loop Inference for Pretrained Transformers: Unlocking Latent Capabilities Without Training"
+   },
+   {
+    "key": "2511.08577",
+    "title": "Think-at-Hard: Dynamic Looped Transformers for Improved Reasoning"
+   },
+   {
+    "key": "2510.17483",
+    "title": "ReXMoE: Reusing Experts with Minimal Overhead in Mixture-of-Experts"
+   },
+   {
+    "key": "2509.05915",
+    "title": "Accelerating Large Language Model Inference via Early-Exiting Algorithms"
+   },
+   {
+    "key": "2410.09375",
+    "title": "Looped ReLU MLPs May Be All You Need as Practical Programmable Computers"
+   },
+   {
+    "key": "2106.04279",
+    "title": "Staircase Attention for Recurrent Processing of Sequences"
+   },
+   {
+    "key": "1807.03819",
+    "title": "Universal Transformers"
+   },
+   {
+    "key": "2609.36108",
+    "title": "LoopICL: Looping a single transformer block to solve tabular tasks"
+   },
+   {
+    "key": "2609.31360",
+    "title": "Programs-of-Layers in LLMs through the Lens of Cortical Areas"
+   },
+   {
+    "key": "2609.19107",
+    "title": "How Model Growth, Recursion, and Boundary Operators Influence Scaling Exponents"
+   },
+   {
+    "key": "2609.04963",
+    "title": "Fractal basins trap latent reasoning"
+   },
+   {
+    "key": "2608.31067",
+    "title": "Universal Transformers for Circuit Computations: Perfect Length Generalization in Tiny Transformers"
+   },
+   {
+    "key": "2608.24136",
+    "title": "Steering Recurrent Reasoners at Inference Time with Readout Feedback"
+   },
+   {
+    "key": "2608.16085",
+    "title": "Behaviour Is an Incomplete Measure of Reasoning Development: Cross-surface pre-arrival accessibility and the limits of developmental inference in a recurrent-depth reasoner"
+   },
+   {
+    "key": "2608.01534",
+    "title": "Recursive Vision Language Models for General Symbolic Reasoning"
+   },
+   {
+    "key": "2607.20594",
+    "title": "When Does Recurrence Become an Algorithm? Convergence Selection in Weight-Tied Looped Transformers"
+   },
+   {
+    "key": "2607.18553",
+    "title": "Operational Proto-Introspection in Looped Language Models: Process-Quality Taps, Executable Branching, and the Readout-Control Boundary"
+   },
+   {
+    "key": "2607.10541",
+    "title": "RecRec: Recursive Refinement for Sequential Recommendation"
+   },
+   {
+    "key": "2605.20922",
+    "title": "Winfree Oscillatory Neural Network"
+   },
+   {
+    "key": "2605.18387",
+    "title": "Graph Hierarchical Recurrence for Long-Range Generalization"
+   },
+   {
+    "key": "t:learning source representation via iterative feature refinement for data informed neural machine translation",
+    "title": "Learning Source Representation via Iterative Feature Refinement for Data-Informed Neural Machine Translation"
+   },
+   {
+    "key": "t:sharedab detr memory efficient object detection through centralbank parameter sharing",
+    "title": "ShareDAB-DETR: Memory-Efficient Object Detection through CentralBank Parameter Sharing"
+   },
+   {
+    "key": "2511.21882",
+    "title": "Closed-Loop Transformers: Autoregressive Modeling as Iterative Latent Equilibrium"
+   },
+   {
+    "key": "2510.14095",
+    "title": "Unlocking Out-of-Distribution Generalization in Transformers via Recursive Latent Space Reasoning"
+   },
+   {
+    "key": "2510.11001",
+    "title": "DND: Boosting Large Language Models with Dynamic Nested Depth"
+   },
+   {
+    "key": "2510.08222",
+    "title": "Selection, Reflection and Self-Refinement: Revisit Reasoning Tasks via a Causal Lens"
+   },
+   {
+    "key": "2501.10688",
+    "title": "Neural Algorithmic Reasoning for Hypergraphs with Looped Transformers"
+   },
+   {
+    "key": "2410.11268",
+    "title": "Bypassing the Exponential Dependency: Looped Transformers Efficiently Learn In-context by Multi-step Gradient Descent"
+   },
+   {
+    "key": "2310.08866",
+    "title": "Adaptivity and Modularity for Efficient Generalization Over Task Complexity"
+   },
+   {
+    "key": "t:recurrent fine grained self attention network for video crowd counting",
+    "title": "Recurrent Fine-Grained Self-Attention Network for Video Crowd Counting"
+   },
+   {
+    "key": "2112.14479",
+    "title": "Universal Transformer Hawkes Process with Adaptive Recursive Iteration"
+   },
+   {
+    "key": "2004.12770",
+    "title": "Differentiable Adaptive Computation Time for Visual Reasoning"
+   },
+   {
+    "key": "t:log anomaly detection using adaptive universal transformer",
+    "title": "Log Anomaly Detection Using Adaptive Universal Transformer"
+   },
+   {
+    "key": "t:rethinking attention entropy guided iterative refinement for language models",
+    "title": "Rethinking Attention: Entropy-Guided Iterative Refinement for Language Models"
+   },
+   {
+    "key": "2609.32457",
+    "title": "Write Back the $\u0394$: Revisiting the Same Tokens with Fresh Representations"
+   },
+   {
+    "key": "2608.26556",
+    "title": "Dynamical phase selection controls compute scaling in looped transformers"
+   },
+   {
+    "key": "2606.06188",
+    "title": "The Tell-Tale Norm: $\\ell_2$ Magnitude as a Signal for Reasoning Dynamics in Large Language Models"
+   },
+   {
+    "key": "2605.06609",
+    "title": "Transformers Efficiently Perform In-Context Logistic Regression via Normalized Gradient Descent"
+   },
+   {
+    "key": "2603.14593",
+    "title": "Parameter-Efficient Quality Estimation via Frozen Recursive Models"
+   },
+   {
+    "key": "2601.10679",
+    "title": "Are Your Reasoning Models Reasoning or Guessing? A Mechanistic Analysis of Hierarchical Reasoning Models"
+   },
+   {
+    "key": "2512.12880",
+    "title": "Improving Recursive Transformers with Mixture of LoRAs"
+   },
+   {
+    "key": "2510.14961",
+    "title": "Efficient Parallel Samplers for Recurrent-Depth Models and Their Connection to Diffusion Language Models"
+   },
+   {
+    "key": "2510.10089",
+    "title": "What Makes Looped Transformers Perform Better Than Non-Recursive Ones"
+   },
+   {
+    "key": "t:exploring shared weight mechanisms in transformer and conformer architectures for automatic speech recognition",
+    "title": "Exploring Shared-Weight Mechanisms in Transformer and Conformer Architectures for Automatic Speech Recognition"
+   },
+   {
+    "key": "2507.10524",
+    "title": "Mixture-of-Recursions: Learning Dynamic Recursive Depths for Adaptive Token-Level Computation"
+   },
+   {
+    "key": "2402.14905",
+    "title": "MobileLLM: Optimizing Sub-billion Parameter Language Models for On-Device Use Cases"
+   },
+   {
+    "key": "2402.00976",
+    "title": "Investigating Recurrent Transformers with Dynamic Halt"
+   },
+   {
+    "key": "t:clmae a liter and faster masked autoencoders",
+    "title": "CLMAE: A Liter and Faster Masked Autoencoders"
+   },
+   {
+    "key": "2607.28185",
+    "title": "Persistent Gaussian Perturbations Prevent Oversmoothing in Recurrent Graph Neural Networks"
+   },
+   {
+    "key": "2607.21485",
+    "title": "Recurrent Sinusoidal INRs for Efficient High-Fidelity Representation"
+   },
+   {
+    "key": "2605.06510",
+    "title": "Is One Layer Enough? Understanding Inference Dynamics in Tabular Foundation Models"
+   },
+   {
+    "key": "t:weight tied adaptive recursive vision language action transformer for efficient multimodal robotic control",
+    "title": "Weight-Tied Adaptive Recursive Vision\u2013Language\u2013Action Transformer for Efficient Multimodal Robotic Control"
+   },
+   {
+    "key": "t:traniu net indicative electrical tomography imaging based on implicit unrolling transformer",
+    "title": "TranIU-Net: Indicative Electrical Tomography Imaging Based on Implicit Unrolling Transformer"
+   },
+   {
+    "key": "2507.10143",
+    "title": "Deep Recurrence for Dynamical Segmentation Models"
+   },
+   {
+    "key": "2501.14713",
+    "title": "FlexiGPT: Pruning and Extending Large Language Models with Low-Rank Weight Sharing"
+   },
+   {
+    "key": "2311.06964",
+    "title": "Adaptive recurrent vision performs zero-shot computation scaling to unseen difficulty levels"
+   },
+   {
+    "key": "2305.13016",
+    "title": "Iterative Forward Tuning Boosts In-Context Learning in Language Models"
+   },
+   {
+    "key": "2606.20325",
+    "title": "Recurrent neural networks approximate continuous functions"
+   },
+   {
+    "key": "2110.07732",
+    "title": "The Neural Data Router: Adaptive Control Flow in Transformers Improves Systematic Generalization"
+   }
+  ]
+ },
+ "Theory / expressivity": {
+  "count": 53,
+  "papers": [
+   {
+    "key": "2610.01981",
+    "title": "Universal interpolation for deep residual self-attention networks"
+   },
+   {
+    "key": "2608.11352",
+    "title": "ODE-Based Transformer Decoders for Iterative Sign Language Translation"
+   },
+   {
+    "key": "2602.01651",
+    "title": "On the Spatiotemporal Dynamics of Generalization in Neural Networks"
+   },
+   {
+    "key": "2505.16865",
+    "title": "LARES: Latent Reasoning for Sequential Recommendation"
+   },
+   {
+    "key": "2503.10799",
+    "title": "Fixed-Point RNNs: Interpolating from Diagonal to Dense"
+   },
+   {
+    "key": "2410.21698",
+    "title": "On the Role of Depth and Looping for In-Context Learning with Task Diversity"
+   },
+   {
+    "key": "2410.01405",
+    "title": "On Expressive Power of Looped Transformers: Theoretical Analysis and Enhancement via Timestep Encoding"
+   },
+   {
+    "key": "2402.13572",
+    "title": "AlgoFormer: An Efficient Transformer Framework with Algorithmic Structures"
+   },
+   {
+    "key": "2301.02195",
+    "title": "Towards Autoformalization of Mathematics and Code Correctness: Experiments with Elementary Proofs"
+   },
+   {
+    "key": "2004.13139",
+    "title": "A Generic Network Compression Framework for Sequential Recommender Systems"
+   },
+   {
+    "key": "t:the exact expressive power of fixed precision looped padded transformers",
+    "title": "The Exact Expressive Power of Fixed-Precision Looped Padded Transformers"
+   },
+   {
+    "key": "2608.15062",
+    "title": "Gated Recurrent Transformers: Expressive Depth through Recurrent Modulation"
+   },
+   {
+    "key": "2605.10878",
+    "title": "Neural Weight Norm = Kolmogorov Complexity"
+   },
+   {
+    "key": "2605.09165",
+    "title": "Sparse Layers are Critical to Scaling Looped Language Models"
+   },
+   {
+    "key": "2508.04581",
+    "title": "Share Your Attention: Transformer Weight Sharing via Matrix-based Dictionary Learning"
+   },
+   {
+    "key": "2502.11646",
+    "title": "Hyper-SET: Designing Transformers via Hyperspherical Energy Minimization"
+   },
+   {
+    "key": "2607.20519",
+    "title": "Adaptive Depth in Looped Transformers: Diagnosing Learned Halting Gates and Trajectory Readouts"
+   },
+   {
+    "key": "2602.02156",
+    "title": "LoopViT: Scaling Visual ARC with Looped Transformers"
+   },
+   {
+    "key": "2506.18945",
+    "title": "Chain-of-Experts: Unlocking the Communication Power of Mixture-of-Experts Models"
+   },
+   {
+    "key": "2607.10681",
+    "title": "LayerNorm as Implicit Gain Control in Looped Transformers"
+   },
+   {
+    "key": "2606.00605",
+    "title": "Looped Transformers with Layer Normalization Provably Learn the Power Method"
+   },
+   {
+    "key": "2510.13117",
+    "title": "On the Reasoning Abilities of Masked Diffusion Language Models"
+   },
+   {
+    "key": "2505.18948",
+    "title": "Exact Expressive Power of Transformers with Padding"
+   },
+   {
+    "key": "2407.04899",
+    "title": "Algorithmic Language Models with Neurally Compiled Libraries"
+   },
+   {
+    "key": "2604.27981",
+    "title": "ITS-Mina: A Harris Hawks Optimization-Based All-MLP Framework with Iterative Refinement and External Attention for Multivariate Time Series Forecasting"
+   },
+   {
+    "key": "2602.14759",
+    "title": "Inner Loop Inference for Pretrained Transformers: Unlocking Latent Capabilities Without Training"
+   },
+   {
+    "key": "2510.17483",
+    "title": "ReXMoE: Reusing Experts with Minimal Overhead in Mixture-of-Experts"
+   },
+   {
+    "key": "2506.15329",
+    "title": "When and How Unlabeled Data Provably Improve In-Context Learning"
+   },
+   {
+    "key": "2501.18596",
+    "title": "DeltaLLM: Compress LLMs with Low-Rank Deltas between Shared Weights"
+   },
+   {
+    "key": "2410.09375",
+    "title": "Looped ReLU MLPs May Be All You Need as Practical Programmable Computers"
+   },
+   {
+    "key": "1807.03819",
+    "title": "Universal Transformers"
+   },
+   {
+    "key": "2609.37351",
+    "title": "Port-Hamiltonian Latent Deliberation: Mitigating the Deliberation Drift Cliff in Test-Time Compute Scaling"
+   },
+   {
+    "key": "2609.36108",
+    "title": "LoopICL: Looping a single transformer block to solve tabular tasks"
+   },
+   {
+    "key": "2609.04963",
+    "title": "Fractal basins trap latent reasoning"
+   },
+   {
+    "key": "2608.31067",
+    "title": "Universal Transformers for Circuit Computations: Perfect Length Generalization in Tiny Transformers"
+   },
+   {
+    "key": "2607.20594",
+    "title": "When Does Recurrence Become an Algorithm? Convergence Selection in Weight-Tied Looped Transformers"
+   },
+   {
+    "key": "2605.18387",
+    "title": "Graph Hierarchical Recurrence for Long-Range Generalization"
+   },
+   {
+    "key": "t:learning source representation via iterative feature refinement for data informed neural machine translation",
+    "title": "Learning Source Representation via Iterative Feature Refinement for Data-Informed Neural Machine Translation"
+   },
+   {
+    "key": "2505.19245",
+    "title": "To CoT or To Loop? A Formal Comparison Between Chain-of-Thought and Looped Transformers"
+   },
+   {
+    "key": "2502.07827",
+    "title": "Implicit Language Models are RNNs: Balancing Parallelization and Expressivity"
+   },
+   {
+    "key": "2410.08292",
+    "title": "Can Looped Transformers Learn to Implement Multi-step Gradient Descent for In-context Learning?"
+   },
+   {
+    "key": "2405.14606",
+    "title": "Logical Characterizations of Recurrent Graph Neural Networks with Reals and Floats"
+   },
+   {
+    "key": "2402.01107",
+    "title": "Simulation of Graph Algorithms with Looped Transformers"
+   },
+   {
+    "key": "t:on the expressive power of a variant of the looped transformer",
+    "title": "On the Expressive Power of a Variant of the Looped Transformer"
+   },
+   {
+    "key": "2609.32457",
+    "title": "Write Back the $\u0394$: Revisiting the Same Tokens with Fresh Representations"
+   },
+   {
+    "key": "2608.14019",
+    "title": "Emergent Models: Intelligence from Tiny Substrates"
+   },
+   {
+    "key": "2607.20792",
+    "title": "Memoir: Should a Model Write to Its Memory While It Thinks?"
+   },
+   {
+    "key": "2605.30523",
+    "title": "Revisiting Padded Transformer Expressivity: Which Architectural Choices Matter and Which Don't"
+   },
+   {
+    "key": "2512.12880",
+    "title": "Improving Recursive Transformers with Mixture of LoRAs"
+   },
+   {
+    "key": "2510.14961",
+    "title": "Efficient Parallel Samplers for Recurrent-Depth Models and Their Connection to Diffusion Language Models"
+   },
+   {
+    "key": "2306.11582",
+    "title": "Computing a human-like reaction time metric from stable recurrent vision models"
+   },
+   {
+    "key": "2005.11362",
+    "title": "Stable and expressive recurrent vision models"
+   },
+   {
+    "key": "2606.20325",
+    "title": "Recurrent neural networks approximate continuous functions"
+   }
+  ]
+ },
+ "Length generalization": {
+  "count": 33,
+  "papers": [
+   {
+    "key": "2607.02491",
+    "title": "G-RRM: Guiding Symbolic Solvers with Recurrent Reasoning Models"
+   },
+   {
+    "key": "2602.01651",
+    "title": "On the Spatiotemporal Dynamics of Generalization in Neural Networks"
+   },
+   {
+    "key": "2409.15647",
+    "title": "Looped Transformers for Length Generalization"
+   },
+   {
+    "key": "2207.02536",
+    "title": "Transformers discover an elementary calculation system exploiting local attention and grid-like problem representation"
+   },
+   {
+    "key": "2609.33144",
+    "title": "Beyond the Training Horizon: Mechanisms and Limits of Length Generalization in Looped Transformers"
+   },
+   {
+    "key": "2608.18222",
+    "title": "Think Shallow, Solve Deep: Controlling Recurrent Dynamics for Reliable Test-Time Depth"
+   },
+   {
+    "key": "2607.27656",
+    "title": "Looped Transformers with Source-Centered State Evolution"
+   },
+   {
+    "key": "2107.05407",
+    "title": "PonderNet: Learning to Ponder"
+   },
+   {
+    "key": "2603.29069",
+    "title": "On the Mirage of Long-Range Dependency, with an Application to Integer Multiplication"
+   },
+   {
+    "key": "2405.17399",
+    "title": "Transformers Can Do Arithmetic with the Right Embeddings"
+   },
+   {
+    "key": "2605.03999",
+    "title": "RD-ViT: Recurrent-Depth Vision Transformer for Semantic Segmentation with Reduced Data Dependence Extending the Recurrent-Depth Transformer Architecture to Dense Prediction"
+   },
+   {
+    "key": "2603.21676",
+    "title": "Thinking Deeper, Not Longer: Memory-Efficient Test-Time Reasoning with Depth-Recurrent Transformers for Compositional Generalization"
+   },
+   {
+    "key": "2202.05826",
+    "title": "End-to-end Algorithm Synthesis with Recurrent Networks: Logical Extrapolation Without Overthinking"
+   },
+   {
+    "key": "2609.19521",
+    "title": "LSTM-UT and Recurrent-Depth Transformers on Cellular Automata"
+   },
+   {
+    "key": "2608.11233",
+    "title": "Retrofitting Recurrent Depth into a Pretrained Language Model: Installation, Extrapolation, Transfer, and Retention at Two Parameter Budgets"
+   },
+   {
+    "key": "2604.07822",
+    "title": "Loop, Think, & Generalize: Implicit Reasoning in Recurrent-Depth Transformers"
+   },
+   {
+    "key": "2609.37351",
+    "title": "Port-Hamiltonian Latent Deliberation: Mitigating the Deliberation Drift Cliff in Test-Time Compute Scaling"
+   },
+   {
+    "key": "2608.31067",
+    "title": "Universal Transformers for Circuit Computations: Perfect Length Generalization in Tiny Transformers"
+   },
+   {
+    "key": "2607.20594",
+    "title": "When Does Recurrence Become an Algorithm? Convergence Selection in Weight-Tied Looped Transformers"
+   },
+   {
+    "key": "2604.15259",
+    "title": "Stability and Generalization in Looped Transformers"
+   },
+   {
+    "key": "2502.08482",
+    "title": "Enhancing Auto-regressive Chain-of-Thought through Loop-Aligned Reasoning"
+   },
+   {
+    "key": "2106.04537",
+    "title": "Can You Learn an Algorithm? Generalizing from Easy to Hard Problems with Recurrent Networks"
+   },
+   {
+    "key": "2608.14019",
+    "title": "Emergent Models: Intelligence from Tiny Substrates"
+   },
+   {
+    "key": "2606.29983",
+    "title": "Stabilizing Extrapolation in Looped Transformers via Learned Stochastic Stopping"
+   },
+   {
+    "key": "2603.02193",
+    "title": "Symbol-Equivariant Recurrent Reasoning Models"
+   },
+   {
+    "key": "2602.08864",
+    "title": "Understanding Dynamic Compute Allocation in Recurrent Transformers"
+   },
+   {
+    "key": "2410.03020",
+    "title": "On Logical Extrapolation for Mazes with Recurrent and Implicit Networks"
+   },
+   {
+    "key": "2402.15393",
+    "title": "NeuralSolver: Learning Algorithms For Consistent and Efficient Extrapolation Across General Tasks"
+   },
+   {
+    "key": "2311.06964",
+    "title": "Adaptive recurrent vision performs zero-shot computation scaling to unseen difficulty levels"
+   },
+   {
+    "key": "2212.04934",
+    "title": "Learning Graph Algorithms With Recurrent Graph Neural Networks"
+   },
+   {
+    "key": "t:2023 re end to end algorithm synthesis with recurrent networks logical extrapolation without overthink ing",
+    "title": "2023. [re] end-to-end algorithm synthesis with recurrent networks: Logical extrapolation without overthink-ing"
+   },
+   {
+    "key": "2410.23451",
+    "title": "Rethinking Deep Thinking: Stable Learning of Algorithms using Lipschitz Constraints"
+   },
+   {
+    "key": "2110.07732",
+    "title": "The Neural Data Router: Adaptive Control Flow in Transformers Improves Systematic Generalization"
+   }
+  ]
+ }
+}

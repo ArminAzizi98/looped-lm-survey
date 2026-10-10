@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: If you use this survey or its data, please cite it as below.
+title: "Looped Language Models: A Survey and Meta-Analysis of Recurrent-Depth Transformers"
+type: dataset
+authors:
+  - given-names: "Seyedarmin"
+    family-names: "Azizi"
+    affiliation: "University of Southern California (USC), USA"
+    email: seyedarm@usc.edu
+  - given-names: "Erfan"
+    family-names: "Baghaei Potraghloo"
+    affiliation: "University of Southern California (USC), USA"
+  - given-names: "Massoud"
+    family-names: "Pedram"
+    affiliation: "University of Southern California (USC), USA"
+license: CC-BY-4.0
+repository-code: https://github.com/ArminAzizi98/looped-lm-survey
+url: https://arminazizi98.github.io/looped-lm-survey/
+date-released: 2026-10-09
+preferred-citation:
+  type: generic
+  title: "Looped Language Models: A Survey and Meta-Analysis of Recurrent-Depth Transformers"
+  authors:
+    - given-names: "Seyedarmin"
+      family-names: "Azizi"
+    - given-names: "Erfan"
+      family-names: "Baghaei Potraghloo"
+    - given-names: "Massoud"
+      family-names: "Pedram"
+  year: 2026
+  url: https://github.com/ArminAzizi98/looped-lm-survey
