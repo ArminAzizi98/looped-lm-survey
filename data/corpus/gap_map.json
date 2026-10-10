@@ -100,7 +100,7 @@
   ]
  },
  "Hallucination / calibration / uncertainty": {
-  "count": 12,
+  "count": 13,
   "papers": [
    {
     "key": "2603.15641",
@@ -149,6 +149,10 @@
    {
     "key": "t:idiffpose equilibrium substitution for lightweight diffusion graph based pose estimation",
     "title": "IDiffPose: Equilibrium Substitution for Lightweight Diffusion-Graph-Based Pose Estimation"
+   },
+   {
+    "key": "2610.05265",
+    "title": "Loopy: Low-Bit Quantization Framework for Looped Language Models"
    }
   ]
  },
@@ -178,7 +182,7 @@
   ]
  },
  "Long context / retrieval": {
-  "count": 5,
+  "count": 6,
   "papers": [
    {
     "key": "2609.29812",
@@ -199,6 +203,10 @@
    {
     "key": "t:deep equilibrium object detection and segmentation",
     "title": "Deep Equilibrium Object Detection and Segmentation"
+   },
+   {
+    "key": "2610.07940",
+    "title": "Hybrid Latent Attention for Looped Language Models"
    }
   ]
  },
@@ -331,7 +339,7 @@
   ]
  },
  "Quantization / compression": {
-  "count": 50,
+  "count": 51,
   "papers": [
    {
     "key": "2609.36126",
@@ -532,11 +540,15 @@
    {
     "key": "2204.07154",
     "title": "MiniViT: Compressing Vision Transformers with Weight Multiplexing"
+   },
+   {
+    "key": "2610.05265",
+    "title": "Loopy: Low-Bit Quantization Framework for Looped Language Models"
    }
   ]
  },
  "KV cache / memory": {
-  "count": 10,
+  "count": 11,
   "papers": [
    {
     "key": "2609.29812",
@@ -577,11 +589,15 @@
    {
     "key": "2606.18023",
     "title": "LoopCoder-v2: Only Loop Once for Efficient Test-Time Computation Scaling"
+   },
+   {
+    "key": "2610.06833",
+    "title": "Towards Looped Models Done Right, Part II: Rethinking at Fixed Points"
    }
   ]
  },
  "Speculative / parallel decoding": {
-  "count": 8,
+  "count": 9,
   "papers": [
    {
     "key": "2501.15665",
@@ -614,6 +630,10 @@
    {
     "key": "2609.23033",
     "title": "WaveFront Decoding: Parallelized Self-Speculative Decoding for Looped Language Models"
+   },
+   {
+    "key": "2610.04198",
+    "title": "ALoDLM: Adaptively Looped Diffusion Language Models"
    }
   ]
  },
@@ -667,7 +687,7 @@
   ]
  },
  "Interpretability": {
-  "count": 142,
+  "count": 143,
   "papers": [
    {
     "key": "2609.22197",
@@ -1236,11 +1256,15 @@
    {
     "key": "2110.07732",
     "title": "The Neural Data Router: Adaptive Control Flow in Transformers Improves Systematic Generalization"
+   },
+   {
+    "key": "2610.06949",
+    "title": "AdaLoop: Adaptive-Depth Latent Reasoning for Audio Language Models"
    }
   ]
  },
  "Theory / expressivity": {
-  "count": 53,
+  "count": 52,
   "papers": [
    {
     "key": "2610.01981",
@@ -1413,10 +1437,6 @@
    {
     "key": "2402.01107",
     "title": "Simulation of Graph Algorithms with Looped Transformers"
-   },
-   {
-    "key": "t:on the expressive power of a variant of the looped transformer",
-    "title": "On the Expressive Power of a Variant of the Looped Transformer"
    },
    {
     "key": "2609.32457",

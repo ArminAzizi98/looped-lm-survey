@@ -1,0 +1,55 @@
+{
+ "_note": "Manual audit (2026-10-05) of keyword hits in data/corpus/gap_map.json for sparse topics. 'audited' counts core papers whose main subject is the topic in looped models. Hits added by the 2026-10-06 sweep were audited and all hits re-checked on 2026-10-09.",
+ "Knowledge editing / unlearning": {
+  "audited": 0,
+  "note": "no keyword hits"
+ },
+ "Memorization / privacy": {
+  "audited": 0,
+  "note": "6 hits all use 'memorization' in the capacity/reasoning sense (e.g. 2508.16745 'Beyond Memorization'); none studies extraction, membership inference or privacy"
+ },
+ "Safety alignment / jailbreaks / refusal": {
+  "audited": 0,
+  "note": "3 hits are false positives (words 'harmful'/'guardrail' used in other senses)"
+ },
+ "Monitorability / faithfulness": {
+  "audited": 1,
+  "note": "2610.02741 is the only paper on CoT monitorability of looped LMs; 2609.33144 discusses step faithfulness of length generalization"
+ },
+ "Adversarial robustness": {
+  "audited": 1,
+  "note": "2609.05988 (adversarial training for algorithm learning); latent-reasoning robustness study 2609.22228 is adjacent (not depth-looped)"
+ },
+ "Hallucination / calibration / uncertainty": {
+  "audited": 0,
+  "note": "hits use uncertainty to gate recursion or 'calibration' in the quantization sense (2609.30820); none detects hallucinations or calibrates confidence from loop trajectories; 2610.05265 also uses 'calibration' in the quantization sense. Without a keyword hit, 2607.18553 uses probes on the loop states of Ouro for selective prediction (abstention); its main subject is introspection, see P4"
+ },
+ "Multilingual": {
+  "audited": 2,
+  "note": "NICT WAT 2018 recurrently stacked layers for NMT; frozen recursive models for quality estimation 2603.14593; LatentMT is sequence-axis latent reasoning"
+ },
+ "Long context / retrieval": {
+  "audited": 0,
+  "note": "hits concern KV memory efficiency (FlashLoop, YOCO) or detection; none studies how looping interacts with long-context retrieval quality; 2610.07940 is a KV-cache compression method that reports long-context retrieval accuracy of its compressed cache, not the effect of looping"
+ },
+ "Agents / tool use": {
+  "audited": 3,
+  "note": "2608.18171 compositional tool calling; 2607.22083 agentic capabilities of a looped 3B model; 2510.22832 HRM-Agent in RL environments"
+ },
+ "Continual / test-time training": {
+  "audited": 0,
+  "note": "1 hit (2511.21882) is an equilibrium formulation, not continual learning"
+ },
+ "Data curricula for recurrence": {
+  "audited": 3,
+  "note": "curricula over recursion depth: 2511.08653, 2511.07384, 2609.01449"
+ },
+ "Fairness / bias": {
+  "audited": 0,
+  "note": "no hits"
+ },
+ "Energy / carbon accounting": {
+  "audited": 1,
+  "note": "the one hit (Energy-Aware Deep Learning on GPUs through Parameter Sharing and Mixed Precision Training, 2025) measures training speed, memory and energy of ALBERT (cross-layer sharing) against DistilBERT; its abstract reports no quality-matched comparison and no serving study"
+ }
+}

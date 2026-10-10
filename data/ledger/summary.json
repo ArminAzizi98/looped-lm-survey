@@ -1,0 +1,34 @@
+{
+ "n_within_model_only": 88,
+ "by_scale_empirical": {
+  "100M-1B": 121,
+  "1B-10B": 227,
+  "<100M": 202,
+  "unstated": 245,
+  ">=10B": 27
+ },
+ "by_scale_flop_matched": {
+  "100M-1B": 43,
+  "1B-10B": 46,
+  "unstated": 38,
+  "<100M": 19,
+  ">=10B": 9
+ },
+ "n_claims": 1986,
+ "n_verified_core": 1211,
+ "by_regime": {
+  "iso_param": 459,
+  "iso_train_flop": 69,
+  "iso_data": 368,
+  "not_applicable": 282,
+  "iso_effective_depth": 123,
+  "iso_infer_flop": 96,
+  "within_model": 103,
+  "unmatched": 113,
+  "unclear": 21
+ },
+ "n_empirical": 822,
+ "n_only_unmatched": 93,
+ "n_flop_matched": 155,
+ "n_papers": 334
+}

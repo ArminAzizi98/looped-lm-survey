@@ -1,0 +1,966 @@
+{
+ "nx57932b58": {
+  "screen_key": "t:latency minimal decentralized lam training with looped transformers in heterogeneous leo satellite constellations",
+  "title": "Latency-Minimal Decentralized LAM Training with Looped Transformers in Heterogeneous LEO Satellite Constellations",
+  "match_score": 1.0,
+  "ok": true,
+  "authors": [
+   "He Xian",
+   "Zixin Wang",
+   "Honggang Yuan",
+   "Ting Wang",
+   "Yuanming Shi"
+  ],
+  "year": 2025,
+  "venue": "Globecom",
+  "doi": "10.1109/globecom59602.2025.11432516",
+  "type": "conference-paper"
+ },
+ "nx041874a2": {
+  "screen_key": "t:implementasi konsep tiny recursion model pada kasus klasifikasi",
+  "title": "Implementasi Konsep Tiny Recursion Model Pada Kasus Klasifikasi",
+  "match_score": 1.0,
+  "ok": true,
+  "authors": [
+   "Arwansyah Arwansyah",
+   "Suryani Suryani",
+   "Hasyrif Sy",
+   "Nurdiansah Nurdiansah"
+  ],
+  "year": 2025,
+  "venue": "e-Jurnal JUSITI (Jurnal Sistem Informasi dan Teknologi Informasi)",
+  "doi": "10.36774/jusiti.v14i2.2046",
+  "type": "article"
+ },
+ "nx45ae25c9": {
+  "screen_key": "t:layer duplication in llms",
+  "title": "Layer Duplication in LLMs",
+  "match_score": 1.0,
+  "ok": true,
+  "authors": [
+   "Neo Eyal",
+   "Nachum Dershowitz",
+   "Kfir Bar"
+  ],
+  "year": 2025,
+  "venue": "Conference on Empirical Methods in Natural Language Processing",
+  "doi": "10.18653/v1/2025.findings-emnlp.967",
+  "type": "conference-paper"
+ },
+ "nx3a2c79bf": {
+  "screen_key": "t:distilalhubert a distilled parameter sharing audio representation model",
+  "title": "DistilALHuBERT: A Distilled Parameter Sharing Audio Representation Model",
+  "match_score": 1.0,
+  "ok": true,
+  "authors": [
+   "Haoyu Wang",
+   "Siyuan Wang",
+   "Yaguang Gong",
+   "Wei-Qiang Zhang"
+  ],
+  "year": 2023,
+  "venue": "International Conference on Signal Processing and Machine Learning",
+  "doi": "10.1145/3614008.3614015",
+  "type": "conference-paper"
+ },
+ "nx79b66dc2": {
+  "screen_key": "t:dictformer tiny transformer with shared dictionary",
+  "title": "DictFormer: Tiny Transformer with Shared Dictionary",
+  "match_score": 0.0,
+  "ok": false
+ },
+ "nxb4bca991": {
+  "screen_key": "t:classifying speech intelligibility levels of children in two continuous speech styles",
+  "title": "Classifying Speech Intelligibility Levels of Children in Two Continuous Speech Styles",
+  "match_score": 1.0,
+  "ok": true,
+  "authors": [
+   "Yeh-Sheng Lin",
+   "Shu-Chuan Tseng"
+  ],
+  "year": 2021,
+  "venue": "IEEE International Conference on Acoustics Speech and Signal Processing",
+  "doi": "10.1109/icassp39728.2021.9414986",
+  "type": "conference-paper"
+ },
+ "nxe41ff8d5": {
+  "screen_key": "t:how many layers and why an analysis of the model depth in transformers",
+  "title": "How Many Layers and Why? An Analysis of the Model Depth in Transformers",
+  "match_score": 1.0,
+  "ok": true,
+  "authors": [
+   "Antoine Simoulin",
+   "Beno\u00eet Crabb\u00e9"
+  ],
+  "year": 2021,
+  "venue": "Annual Meeting of the Association for Computational Linguistics",
+  "doi": "10.18653/v1/2021.acl-srw.23",
+  "type": "conference-paper"
+ },
+ "nx138e28e7": {
+  "screen_key": "t:shapeshifter networks cross layer parameter sharing for scalable and effective deep learning",
+  "title": "Shapeshifter Networks: Cross-layer Parameter Sharing for Scalable and Effective Deep Learning",
+  "match_score": 1.0,
+  "ok": true,
+  "authors": [
+   "Bryan A. Plummer",
+   "Nikoli Dryden",
+   "Julius Frost",
+   "Torsten Hoefler",
+   "Kate Saenko"
+  ],
+  "year": 2020,
+  "venue": "arXiv (Cornell University)",
+  "doi": "",
+  "type": "preprint",
+  "duplicate_of": "2006.10598"
+ },
+ "nx7a1cd7d8": {
+  "screen_key": "t:the exact expressive power of fixed precision looped padded transformers",
+  "title": "The Exact Expressive Power of Fixed-Precision Looped Padded Transformers",
+  "match_score": 0.2,
+  "ok": false
+ },
+ "nx34a5550a": {
+  "screen_key": "t:h ierarchical r easoning m odel a c ritical s upplementary m aterial",
+  "title": "H IERARCHICAL R EASONING M ODEL : A C RITICAL S UPPLEMENTARY M ATERIAL",
+  "match_score": 0.0,
+  "ok": false
+ },
+ "nxd21d5a4d": {
+  "screen_key": "t:moeut",
+  "title": "MoEUT",
+  "match_score": 0.2,
+  "ok": false,
+  "duplicate_of": "2405.16039"
+ },
+ "nx1d10c616": {
+  "screen_key": "t:skipfold test time dynamic depth for scalable biomolecular inference",
+  "title": "SkipFold: Test-Time Dynamic Depth for Scalable Biomolecular Inference",
+  "match_score": 1.0,
+  "ok": true,
+  "authors": [
+   "Wen Yeong Lee",
+   "Darren Tan",
+   "Ian Vince McLoughlin",
+   "Aik Beng Ng",
+   "Zhengkui Wang",
+   "Simon Chong Wee See"
+  ],
+  "year": 2026,
+  "venue": "International Conference on Advanced Algorithms and Neural Networks (AANN)",
+  "doi": "10.1109/aann71145.2026.11709365",
+  "type": "conference-paper",
+  "duplicate_of": "doi2026skipfold"
+ },
+ "nxcbb71446": {
+  "screen_key": "t:efficient transformer parameter reuse via zero token mechanism",
+  "title": "Efficient Transformer Parameter Reuse via Zero-Token Mechanism",
+  "match_score": 1.0,
+  "ok": true,
+  "authors": [
+   "Guanghao Li",
+   "Wenhao Jiang",
+   "Li Shen",
+   "Ming Tang",
+   "Chun Yuan"
+  ],
+  "year": 2026,
+  "venue": "Annual Meeting of the Association for Computational Linguistics",
+  "doi": "10.18653/v1/2026.findings-acl.711",
+  "type": "conference-paper"
+ },
+ "nx5b16d161": {
+  "screen_key": "t:a method with universal transformer for multimodal sentiment analysis",
+  "title": "A Method with Universal Transformer for Multimodal Sentiment Analysis",
+  "match_score": 1.0,
+  "ok": true,
+  "authors": [
+   "Hao Ai",
+   "Ying Liu",
+   "Jie Fang",
+   "Sheikh Faisal Rashid"
+  ],
+  "year": 2022,
+  "venue": "International Conference on Artificial Intelligence and Pattern Recognition",
+  "doi": "10.1145/3573942.3573968",
+  "type": "conference-paper"
+ },
+ "nxa2f1d6c4": {
+  "screen_key": "t:leveraging relaxed equilibrium by lazy transition for sequence modeling",
+  "title": "Leveraging Relaxed Equilibrium by Lazy Transition for Sequence Modeling",
+  "match_score": 1.0,
+  "ok": true,
+  "authors": [
+   "Xi Ai",
+   "Bin Fang"
+  ],
+  "year": 2022,
+  "venue": "Annual Meeting of the Association for Computational Linguistics (ACL)",
+  "doi": "10.18653/v1/2022.acl-long.208",
+  "type": "conference-paper"
+ },
+ "nx52399e1c": {
+  "screen_key": "t:deep reinforcement learning with transformers for text adventure games",
+  "title": "Deep Reinforcement Learning with Transformers for Text Adventure Games",
+  "match_score": 1.0,
+  "ok": true,
+  "authors": [
+   "Yunqiu Xu",
+   "Ling Chen",
+   "Meng Fang",
+   "Yang Wang",
+   "Chengqi Zhang"
+  ],
+  "year": 2020,
+  "venue": "IEEE Conference on Games (CoG)",
+  "doi": "10.1109/cog47356.2020.9231622",
+  "type": "conference-paper"
+ },
+ "nxe9810ef4": {
+  "screen_key": "t:g enerative r ecursive r easoning m odels",
+  "title": "G ENERATIVE R ECURSIVE R EASONING M ODELS",
+  "match_score": 0.0,
+  "ok": false
+ },
+ "nx03576e22": {
+  "screen_key": "t:cotformer",
+  "title": "CoTFormer",
+  "match_score": 0.2,
+  "ok": false,
+  "duplicate_of": "2310.10845"
+ },
+ "nx419b9b7f": {
+  "screen_key": "t:mor st content adaptive recursive computation for efficient vision transformers",
+  "title": "MoR-ST: content-adaptive recursive computation for efficient vision transformers",
+  "match_score": 1.0,
+  "ok": true,
+  "authors": [
+   "Yongbao Ai",
+   "Tianxiang Gao"
+  ],
+  "year": 2026,
+  "venue": "The Visual Computer",
+  "doi": "10.1007/s00371-026-04713-6",
+  "type": "article"
+ },
+ "nx7de70164": {
+  "screen_key": "t:mor swin efficient vision transformer using mixture of recursions",
+  "title": "MoR\u2013Swin: Efficient Vision Transformer Using Mixture of Recursions",
+  "match_score": 1.0,
+  "ok": true,
+  "authors": [
+   "Yongbao Ai",
+   "Tianxiang Gao",
+   "Zhipeng Lin",
+   "Longqi Yang",
+   "Qingyu Chang"
+  ],
+  "year": 2026,
+  "venue": "Journal of Imaging",
+  "doi": "10.3390/jimaging12080377",
+  "type": "article"
+ },
+ "nxbd1f3d6d": {
+  "screen_key": "t:optimization driven parameter sharing via neural architecture search for transformer models in machine translation",
+  "title": "Optimization-driven parameter sharing via neural architecture search for transformer models in machine translation",
+  "match_score": 1.0,
+  "ok": true,
+  "authors": [
+   "Befekadu Bekuretsion",
+   "Wolfgang Menzel",
+   "Solomon Teferra"
+  ],
+  "year": 2026,
+  "venue": "Discover Computing",
+  "doi": "10.1007/s10791-026-10185-y",
+  "type": "article"
+ },
+ "nx8802bad6": {
+  "screen_key": "t:implementasi hierarchical reasoning model hrm pada kasus klasifikasi",
+  "title": "Implementasi Hierarchical Reasoning Model (HRM) Pada Kasus Klasifikasi",
+  "match_score": 1.0,
+  "ok": true,
+  "authors": [
+   "Arwansyah",
+   "Suryani",
+   "Hasyrif SY",
+   "Nurdiansah",
+   "Ahyuna"
+  ],
+  "year": 2026,
+  "venue": "SISITI : Seminar Ilmiah Sistem Informasi dan Teknologi Informasi",
+  "doi": "10.36774/sisiti.v15i1.2133",
+  "type": "article"
+ },
+ "nx4bde0104": {
+  "screen_key": "t:trm planner offline target planning and distillation for tiny recursive models",
+  "title": "TRM-Planner: Offline Target Planning and Distillation for Tiny Recursive Models",
+  "match_score": 1.0,
+  "ok": true,
+  "authors": [
+   "Euijin Baek",
+   "Housam Babiker",
+   "Mi-Young Kim",
+   "Randy G. Goebel"
+  ],
+  "year": 2026,
+  "venue": "Annual Meeting of the Association for Computational Linguistics",
+  "doi": "10.18653/v1/2026.findings-acl.1350",
+  "type": "conference-paper"
+ },
+ "nxc0095940": {
+  "screen_key": "t:mem deepsc a semantic communication system with memory",
+  "title": "Mem-DeepSC: A Semantic Communication System with Memory",
+  "match_score": 1.0,
+  "ok": true,
+  "authors": [
+   "Zhijin Qin",
+   "Huiqiang Xie",
+   "Xiaoming Tao"
+  ],
+  "year": 2023,
+  "venue": "International Conference on Communications",
+  "doi": "10.1109/icc45041.2023.10279664",
+  "type": "conference-paper"
+ },
+ "nxf758686a": {
+  "screen_key": "t:universal speech transformer",
+  "title": "Universal Speech Transformer",
+  "match_score": 1.0,
+  "ok": true,
+  "authors": [
+   "Yingzhu Zhao",
+   "Chongjia Ni",
+   "Cheung-Chi Leung",
+   "Shafiq Joty",
+   "Eng Siong Chng",
+   "Bin Ma"
+  ],
+  "year": 2020,
+  "venue": "Interspeech (USB)",
+  "doi": "10.21437/interspeech.2020-1716",
+  "type": "conference-paper"
+ },
+ "nxe5f47e4e": {
+  "screen_key": "t:nict s participation in wat 2018 approaches using multilingualism and recurrently stacked layers",
+  "title": "NICT\u2019s Participation in WAT 2018: Approaches Using Multilingualism and Recurrently Stacked Layers",
+  "match_score": 0.091,
+  "ok": false
+ },
+ "nx15baa539": {
+  "screen_key": "t:l pcoder scaling code intelligence via looped language models",
+  "title": "L pCoder \u221e : Scaling Code Intelligence via Looped Language Models",
+  "match_score": 0.0,
+  "ok": false
+ },
+ "nx036c94a1": {
+  "screen_key": "t:test time control over accuracy cost trade offs in neural physics simulators via recurrent depth",
+  "title": "Test-Time Control Over Accuracy-Cost Trade-Offs in Neural Physics Simulators via Recurrent Depth",
+  "match_score": 0.174,
+  "ok": false
+ },
+ "nxc13f7368": {
+  "screen_key": "t:u nrolled p olicy i teration for t iny r ecursive m odels",
+  "title": "U NROLLED P OLICY I TERATION FOR T INY R ECURSIVE M ODELS",
+  "match_score": 0.0,
+  "ok": false
+ },
+ "nx2b605867": {
+  "screen_key": "t:depth selective lora augmenting mixture of recursions with sparse low rank adaptation",
+  "title": "Depth-selective LoRA: Augmenting mixture-of-recursions with sparse low-rank adaptation",
+  "match_score": 1.0,
+  "ok": true,
+  "authors": [
+   "Zhirui Zhu",
+   "Li Feng",
+   "Qinglin Zhao"
+  ],
+  "year": 2026,
+  "venue": "Expert Systems with Applications",
+  "doi": "10.1016/j.eswa.2026.132390",
+  "type": "article"
+ },
+ "nx27940280": {
+  "screen_key": "t:recurrent detr transformer based object detection for crowded scenes",
+  "title": "Recurrent DETR: Transformer-Based Object Detection for Crowded Scenes",
+  "match_score": 1.0,
+  "ok": true,
+  "authors": [
+   "Hyeong Kyu Choi",
+   "Chong Keun Paik",
+   "Hyun Woo Ko",
+   "Min\u2010Chul Park",
+   "Hyunwoo J. Kim"
+  ],
+  "year": 2023,
+  "venue": "IEEE Access",
+  "doi": "10.1109/access.2023.3293532",
+  "type": "article"
+ },
+ "nx456191c0": {
+  "screen_key": "t:sharvet similarity aware parameter sharing with vector based tuning for efficient llm compression",
+  "title": "SharVeT: Similarity-aware Parameter Sharing with Vector-based Tuning for Efficient LLM Compression",
+  "match_score": 1.0,
+  "ok": true,
+  "authors": [
+   "Jeongin Yun",
+   "Jaeri Lee",
+   "Jongjin Kim",
+   "Minjun Kim",
+   "Jinho Song",
+   "U Kang"
+  ],
+  "year": 2026,
+  "venue": "Annual Meeting of the Association for Computational Linguistics (ACL)",
+  "doi": "10.18653/v1/2026.acl-long.2213",
+  "type": "conference-paper"
+ },
+ "nx81ffebfb": {
+  "screen_key": "t:sai latency aware satellite edge lam inference with looped transformer",
+  "title": "SAI: Latency-Aware Satellite Edge LAM Inference with Looped Transformer",
+  "match_score": 1.0,
+  "ok": true,
+  "authors": [
+   "Honggang Yuan",
+   "Zixin Johnson Wang",
+   "Yuning Jiang",
+   "Xin Liu",
+   "Yuanming Shi",
+   "Ting Wang"
+  ],
+  "year": 2025,
+  "venue": "International Conference on Communications",
+  "doi": "10.1109/icc52391.2025.11161072",
+  "type": "conference-paper"
+ },
+ "nx390c4611": {
+  "screen_key": "t:pet parameter efficient knowledge distillation on transformer",
+  "title": "PET: Parameter-efficient Knowledge Distillation on Transformer",
+  "match_score": 1.0,
+  "ok": true,
+  "authors": [
+   "Hyojin Jeon",
+   "Seungcheol Park",
+   "Jin-Gee Kim",
+   "U Kang"
+  ],
+  "year": 2023,
+  "venue": "PLoS ONE",
+  "doi": "10.1371/journal.pone.0288060",
+  "type": "article"
+ },
+ "nx7ca9f7dc": {
+  "screen_key": "t:ut atd universal transformer for anomalous trajectory detection by embedding trajectory information",
+  "title": "UT-ATD: Universal Transformer for Anomalous Trajectory Detection by Embedding Trajectory Information",
+  "match_score": 1.0,
+  "ok": true,
+  "authors": [
+   "Yun Zhang"
+  ],
+  "year": 2021,
+  "venue": "Proceedings of the International DMS Conference on Visualization and Visual Languages (DMSVIVA)",
+  "doi": "10.18293/dmsviva21-011",
+  "type": "conference-paper"
+ },
+ "nx3ea97d72": {
+  "screen_key": "t:mobilellm",
+  "title": "MobileLLM",
+  "match_score": 0.25,
+  "ok": false,
+  "duplicate_of": "2402.14905"
+ },
+ "nx3054319e": {
+  "screen_key": "t:learning source representation via iterative feature refinement for data informed neural machine translation",
+  "title": "Learning Source Representation via Iterative Feature Refinement for Data-Informed Neural Machine Translation",
+  "match_score": 1.0,
+  "ok": true,
+  "authors": [
+   "Jinxi Zhang",
+   "Chunling Li"
+  ],
+  "year": 2026,
+  "venue": "Data Intelligence",
+  "doi": "10.3724/2096-7004.di.2026.0094",
+  "type": "article"
+ },
+ "nx3158cf12": {
+  "screen_key": "t:sharedab detr memory efficient object detection through centralbank parameter sharing",
+  "title": "ShareDAB-DETR: Memory-Efficient Object Detection through CentralBank Parameter Sharing",
+  "match_score": 1.0,
+  "ok": true,
+  "authors": [
+   "Khaled Chikh",
+   "Roberto Cavicchioli",
+   "Alessandro Capotondi"
+  ],
+  "year": 2026,
+  "venue": "International Conference on Computer Vision Theory and Applications",
+  "doi": "10.5220/0014452400004084",
+  "type": "conference-paper"
+ },
+ "nx7fa8504c": {
+  "screen_key": "t:lsrl process supervised grpo on latent recurrent states improves mathematical reasoning",
+  "title": "LSRL: Process-Supervised GRPO on Latent Recurrent States Improves Mathematical Reasoning",
+  "match_score": 1.0,
+  "ok": true,
+  "authors": [
+   "Hangliang Ren"
+  ],
+  "year": 2025,
+  "venue": "Conference on Empirical Methods in Natural Language Processing",
+  "doi": "10.18653/v1/2025.findings-emnlp.669",
+  "type": "conference-paper"
+ },
+ "nx1b507a22": {
+  "screen_key": "t:hierarchical multi task learning with ctc and recursive operation",
+  "title": "Hierarchical Multi-Task Learning with CTC and Recursive Operation",
+  "match_score": 1.0,
+  "ok": true,
+  "authors": [
+   "Nahomi Kusunoki",
+   "Yosuke Higuchi",
+   "Tetsuji Ogawa",
+   "Tetsunori Kobayashi"
+  ],
+  "year": 2024,
+  "venue": "Interspeech (USB)",
+  "doi": "10.21437/interspeech.2024-1542",
+  "type": "conference-paper"
+ },
+ "nx2f2c0226": {
+  "screen_key": "t:recurrent fine grained self attention network for video crowd counting",
+  "title": "Recurrent Fine-Grained Self-Attention Network for Video Crowd Counting",
+  "match_score": 1.0,
+  "ok": true,
+  "authors": [
+   "Jifan Zhang",
+   "Zhe Wu",
+   "Xinfeng Zhang",
+   "Guoli Song",
+   "Yaowei Wang",
+   "Jie Chen"
+  ],
+  "year": 2023,
+  "venue": "IEEE International Conference on Acoustics Speech and Signal Processing",
+  "doi": "10.1109/icassp49357.2023.10096999",
+  "type": "conference-paper"
+ },
+ "nxa38d0af7": {
+  "screen_key": "t:contextual bangla neural stemmer finding contextualized root word representations for bangla words",
+  "title": "Contextual Bangla Neural Stemmer: Finding Contextualized Root Word Representations for Bangla Words",
+  "match_score": 1.0,
+  "ok": true,
+  "authors": [
+   "Md Fahim",
+   "Amin Ahsan Ali",
+   "M. Ashraful Amin",
+   "A K M Mahbubur Rahman"
+  ],
+  "year": 2023,
+  "venue": "Workshop on Bangla Language Processing (BLP)",
+  "doi": "10.18653/v1/2023.banglalp-1.11",
+  "type": "conference-paper"
+ },
+ "nxc16c8783": {
+  "screen_key": "t:universal transformer hawkes process",
+  "title": "Universal Transformer Hawkes process",
+  "match_score": 1.0,
+  "ok": true,
+  "authors": [
+   "Lu-ning Zhang",
+   "Jian\u2013wei Liu",
+   "Zhi-yan Song",
+   "Xin Zuo",
+   "Weimin Li",
+   "Zeyu Liu"
+  ],
+  "year": 2021,
+  "venue": "IEEE International Joint Conference on Neural Network",
+  "doi": "10.1109/ijcnn52387.2021.9533810",
+  "type": "conference-paper"
+ },
+ "nxf764dfe4": {
+  "screen_key": "t:log anomaly detection using adaptive universal transformer",
+  "title": "Log Anomaly Detection Using Adaptive Universal Transformer",
+  "match_score": 1.0,
+  "ok": true,
+  "authors": [
+   "Sergio Ryan Wibisono",
+   "Achmad Imam Kistijantoro"
+  ],
+  "year": 2019,
+  "venue": "2019 International Conference of Advanced Informatics: Concepts, Theory and Applications (ICAICTA)",
+  "doi": "10.1109/icaicta.2019.8904299",
+  "type": "conference-paper"
+ },
+ "nx0b63093e": {
+  "screen_key": "t:towards smaller language models via layer looping",
+  "title": "Towards smaller language models via layer looping",
+  "match_score": 0.25,
+  "ok": false
+ },
+ "nx5cbdda40": {
+  "screen_key": "t:scaling up test time compute with latent reasoning",
+  "title": "Scaling up Test-Time Compute with Latent Reasoning",
+  "match_score": 0.7,
+  "ok": false,
+  "duplicate_of": "2502.05171"
+ },
+ "nx53ffd06d": {
+  "screen_key": "t:rethinking attention entropy guided iterative refinement for language models",
+  "title": "Rethinking Attention: Entropy-Guided Iterative Refinement for Language Models",
+  "match_score": 1.0,
+  "ok": true,
+  "authors": [
+   "Rojalina Priyadarshini",
+   "Subham Divakar"
+  ],
+  "year": 2026,
+  "venue": "Transactions on Artificial Intelligence",
+  "doi": "10.53941/tai.2026.100014",
+  "type": "article"
+ },
+ "nxec5faa6b": {
+  "screen_key": "t:poster intent reasoning from user locale data using tiny recursive models",
+  "title": "Intent Reasoning from User Locale Data using Tiny Recursive Models",
+  "match_score": 1.0,
+  "ok": true,
+  "authors": [
+   "Swayam Prabha Satpathy",
+   "Akash Sahoo",
+   "Rabi Mahapatra",
+   "Amita Sahoo"
+  ],
+  "year": 2026,
+  "venue": "International Conference on Distributed Computing in Smart Systems and the Internet of Things (DCOSS-IoT)",
+  "doi": "10.1109/dcoss-iot69657.2026.00051",
+  "type": "conference-paper"
+ },
+ "nxfbabe38e": {
+  "screen_key": "t:a tiny recursive multi head model for semantic traffic sign recognition in autonomous robotics",
+  "title": "A Tiny Recursive Multi-Head Model for Semantic Traffic Sign Recognition in Autonomous Robotics",
+  "match_score": 1.0,
+  "ok": true,
+  "authors": [
+   "Matheus Lima Castro",
+   "Cesar A. M. da Silva",
+   "Davi De Oliveira Costa",
+   "Lucas V. Souza",
+   "Felix M. Escalante",
+   "Leopoldo Lusquino Filho"
+  ],
+  "year": 2026,
+  "venue": "2026 Brazilian Conference on Robotics (CROS)",
+  "doi": "10.1109/cros69211.2026.11565785",
+  "type": "conference-paper"
+ },
+ "nx68a5e58e": {
+  "screen_key": "t:exploring shared weight mechanisms in transformer and conformer architectures for automatic speech recognition",
+  "title": "Exploring Shared-Weight Mechanisms in Transformer and Conformer Architectures for Automatic Speech Recognition",
+  "match_score": 1.0,
+  "ok": true,
+  "authors": [
+   "Thomas Rolland",
+   "Alberto Abad"
+  ],
+  "year": 2025,
+  "venue": "Interspeech (USB)",
+  "doi": "10.21437/interspeech.2025-2733",
+  "type": "conference-paper"
+ },
+ "nx1aab4ff6": {
+  "screen_key": "t:leveraging adapter for parameter efficient asr encoder",
+  "title": "Leveraging Adapter for Parameter-Efficient ASR Encoder",
+  "match_score": 1.0,
+  "ok": true,
+  "authors": [
+   "Kyuhong Shim",
+   "Jinkyu Lee",
+   "Hyunjae Kim"
+  ],
+  "year": 2024,
+  "venue": "Interspeech (USB)",
+  "doi": "10.21437/interspeech.2024-334",
+  "type": "conference-paper"
+ },
+ "nx8a536f9c": {
+  "screen_key": "t:clmae a liter and faster masked autoencoders",
+  "title": "CLMAE: A Liter and Faster Masked Autoencoders",
+  "match_score": 1.0,
+  "ok": true,
+  "authors": [
+   "Yiran Song",
+   "Lizhuang Ma"
+  ],
+  "year": 2023,
+  "venue": "IEEE International Conference on Acoustics Speech and Signal Processing",
+  "doi": "10.1109/icassp49357.2023.10096059",
+  "type": "conference-paper"
+ },
+ "nxe64e096e": {
+  "screen_key": "t:layer flexible adaptive computation time",
+  "title": "Layer Flexible Adaptive Computation Time",
+  "match_score": 1.0,
+  "ok": true,
+  "authors": [
+   "Lida Zhang",
+   "Abdolghani Ebrahimi",
+   "Diego Klabjan"
+  ],
+  "year": 2021,
+  "venue": "IEEE International Joint Conference on Neural Network",
+  "doi": "10.1109/ijcnn52387.2021.9534317",
+  "type": "conference-paper",
+  "duplicate_of": "1812.02335"
+ },
+ "nx7d72fda1": {
+  "screen_key": "t:sequence to sequence models for automated text simplification",
+  "title": "Sequence-to-Sequence Models for Automated Text Simplification",
+  "match_score": 1.0,
+  "ok": true,
+  "authors": [
+   "Robert-Mihai Botarleanu",
+   "Mihai Dasc\u0103lu",
+   "Scott A. Crossley",
+   "Danielle S. McNamara"
+  ],
+  "year": 2020,
+  "venue": "Lecture notes in computer science",
+  "doi": "10.1007/978-3-030-52240-7_6",
+  "type": "conference-paper"
+ },
+ "nx21091866": {
+  "screen_key": "t:hierarchical and tiny recursive models for medical image captioning",
+  "title": "Hierarchical and Tiny Recursive Models for Medical Image Captioning",
+  "match_score": 0.214,
+  "ok": false
+ },
+ "nx95a15218": {
+  "screen_key": "t:inner thinking transformer",
+  "title": "Inner Thinking Transformer",
+  "match_score": 0.3,
+  "ok": false,
+  "duplicate_of": "2502.13842"
+ },
+ "nx8b33f64b": {
+  "screen_key": "t:weight tied adaptive recursive vision language action transformer for efficient multimodal robotic control",
+  "title": "Weight-Tied Adaptive Recursive Vision\u2013Language\u2013Action Transformer for Efficient Multimodal Robotic Control",
+  "match_score": 1.0,
+  "ok": true,
+  "authors": [
+   "Howaida Allam",
+   "Inam Ullah Khan"
+  ],
+  "year": 2026,
+  "venue": "Journal of Smart Algorithms and Applications (JSAA)",
+  "doi": "10.66279/pk83n728",
+  "type": "article"
+ },
+ "nxd9a28b5e": {
+  "screen_key": "t:traniu net indicative electrical tomography imaging based on implicit unrolling transformer",
+  "title": "TranIU-Net: Indicative Electrical Tomography Imaging Based on Implicit Unrolling Transformer",
+  "match_score": 1.0,
+  "ok": true,
+  "authors": [
+   "Binchun Lu",
+   "Lidan Fu",
+   "Juntao Ren",
+   "Yixuan Pan",
+   "Yonggui Dong"
+  ],
+  "year": 2026,
+  "venue": "IEEE Transactions on Image Processing",
+  "doi": "10.1109/tip.2026.3663886",
+  "type": "article"
+ },
+ "nx9cbfa57b": {
+  "screen_key": "t:idiffpose equilibrium substitution for lightweight diffusion graph based pose estimation",
+  "title": "IDiffPose: Equilibrium Substitution for Lightweight Diffusion-Graph-Based Pose Estimation",
+  "match_score": 1.0,
+  "ok": true,
+  "authors": [
+   "Nugroho Wicaksono",
+   "Lailil Muflikhah",
+   "Novanto Yudistira"
+  ],
+  "year": 2025,
+  "venue": "ACM International Conference on Multimedia in Asia (MMAsia)",
+  "doi": "10.1145/3743093.3771064",
+  "type": "conference-paper"
+ },
+ "nx16bcaba0": {
+  "screen_key": "t:energy aware deep learning on gpus through parameter sharing and mixed precision training",
+  "title": "Energy-Aware Deep Learning on GPUs through Parameter Sharing and Mixed Precision Training",
+  "match_score": 1.0,
+  "ok": true,
+  "authors": [
+   "Roblex Nana Tchakoute",
+   "Claude Tadonki"
+  ],
+  "year": 2025,
+  "venue": "2025 IEEE",
+  "doi": "10.1109/sbac-padw69789.2025.00024",
+  "type": "conference-paper"
+ },
+ "nxbd63900f": {
+  "screen_key": "t:memory efficient model growth for finetuning automatic speech recognition models",
+  "title": "Memory-efficient Model Growth for Finetuning Automatic Speech Recognition Models",
+  "match_score": 1.0,
+  "ok": true,
+  "authors": [
+   "Geoffroy Vanderreydt",
+   "Jenthe Thienpondt",
+   "Kris Demuynck"
+  ],
+  "year": 2025,
+  "venue": "International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA)",
+  "doi": "10.1109/acdsa65407.2025.11166050",
+  "type": "conference-paper"
+ },
+ "nxad03da9c": {
+  "screen_key": "t:deep equilibrium object detection and segmentation",
+  "title": "Deep Equilibrium Object Detection and Segmentation",
+  "match_score": 1.0,
+  "ok": true,
+  "authors": [
+   "Shuai Wang",
+   "Yao Teng",
+   "Limin Wang"
+  ],
+  "year": 2025,
+  "venue": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+  "doi": "10.1109/tpami.2025.3595380",
+  "type": "article"
+ },
+ "nxc0dbcd50": {
+  "screen_key": "t:hyperpolypdeq a lightning transformer based deep equilibrium model for colon polyp segmentation",
+  "title": "HyperPolypDEQ: A Lightning Transformer-Based Deep Equilibrium Model for Colon Polyp Segmentation",
+  "match_score": 1.0,
+  "ok": true,
+  "authors": [
+   "Minh Chau Nguyen",
+   "Truong Giang Le",
+   "Viet Sang Dinh"
+  ],
+  "year": 2024,
+  "venue": "Smart Systems and Devices",
+  "doi": "10.51316/jst.176.ssad.2024.34.3.3",
+  "type": "article"
+ },
+ "nx10620eda": {
+  "screen_key": "t:iterative convergent computation may not be a useful inductive bias for residual neural networks",
+  "title": "Iterative convergent computation may not be a useful inductive bias for residual neural networks",
+  "match_score": 1.0,
+  "ok": true,
+  "authors": [
+   "Samuel Lippl",
+   "Benjamin Peters",
+   "Kriegeskorte Nikolaus"
+  ],
+  "year": 2023,
+  "venue": "bioRxiv (Cold Spring Harbor Laboratory)",
+  "doi": "10.1101/2023.10.13.562196",
+  "type": "preprint"
+ },
+ "nxdeb411da": {
+  "screen_key": "t:deep equilibrium non autoregressive sequence learning",
+  "title": "Deep Equilibrium Non-Autoregressive Sequence Learning",
+  "match_score": 1.0,
+  "ok": true,
+  "authors": [
+   "Zaixiang Zheng",
+   "Yi Zhou",
+   "Hao Zhou"
+  ],
+  "year": 2023,
+  "venue": "Annual Meeting of the Association for Computational Linguistics",
+  "doi": "10.18653/v1/2023.findings-acl.747",
+  "type": "conference-paper"
+ },
+ "nxbb2f9c9e": {
+  "screen_key": "t:deep residual weight sharing attention network with low rank attention for visual question answering",
+  "title": "Deep Residual Weight-Sharing Attention Network With Low-Rank Attention for Visual Question Answering",
+  "match_score": 1.0,
+  "ok": true,
+  "authors": [
+   "Bosheng Qin",
+   "Haoji Roland Hu",
+   "Yueting Zhuang"
+  ],
+  "year": 2022,
+  "venue": "IEEE Transactions on Multimedia",
+  "doi": "10.1109/tmm.2022.3173131",
+  "type": "article"
+ },
+ "nxd1df1ee9": {
+  "screen_key": "t:thinking deeply with recurrence generalizing from easy to hard sequential reasoning problems",
+  "title": "Thinking Deeply with Recurrence: Generalizing from Easy to Hard Sequential Reasoning Problems",
+  "match_score": 1.0,
+  "ok": true,
+  "authors": [
+   "Avi Schwarzschild",
+   "Arjun K. Gupta",
+   "Micah Goldblum",
+   "Tom Goldstein"
+  ],
+  "year": 2021,
+  "venue": "arXiv (Cornell University)",
+  "doi": "",
+  "type": "preprint",
+  "duplicate_of": "2102.11011"
+ },
+ "nx6ed8b61e": {
+  "screen_key": "t:recurrent neural networks with intra frame iterations for video deblurring",
+  "title": "Recurrent Neural Networks With Intra-Frame Iterations for Video Deblurring",
+  "match_score": 1.0,
+  "ok": true,
+  "authors": [
+   "Seungjun Nah",
+   "Sanghyun Son",
+   "Kyoung Mu Lee"
+  ],
+  "year": 2019,
+  "venue": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition",
+  "doi": "10.1109/cvpr.2019.00829",
+  "type": "conference-paper"
+ },
+ "nx9ec8b087": {
+  "screen_key": "t:dynamic recursive neural network",
+  "title": "Dynamic Recursive Neural Network",
+  "match_score": 1.0,
+  "ok": true,
+  "authors": [
+   "Qiushan Guo",
+   "Zhipeng Yu",
+   "Yichao Wu",
+   "Ding Liang",
+   "Haoyu Qin",
+   "Junjie Yan"
+  ],
+  "year": 2019,
+  "venue": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition",
+  "doi": "10.1109/cvpr.2019.00529",
+  "type": "conference-paper"
+ },
+ "nx45808a26": {
+  "screen_key": "t:t hinking d eeper w ith r ecurrent n etworks l ogical e xtrapolation w ithout o verthinking",
+  "title": "T HINKING D EEPER W ITH R ECURRENT N ETWORKS : L OGICAL E XTRAPOLATION W ITHOUT O VERTHINKING",
+  "match_score": 0.0,
+  "ok": false,
+  "duplicate_of": "2202.05826"
+ },
+ "nxcd1e91b9": {
+  "screen_key": "t:2025a reasoning with latent thoughts on the power of looped trans formers",
+  "title": "2025a. Reasoning with latent thoughts: On the power of looped trans-formers",
+  "match_score": 0.231,
+  "ok": false,
+  "duplicate_of": "2502.17416"
+ },
+ "nx99094aed": {
+  "screen_key": "t:2023 re end to end algorithm synthesis with recurrent networks logical extrapolation without overthink ing",
+  "title": "2023. [re] end-to-end algorithm synthesis with recurrent networks: Logical extrapolation without overthink-ing",
+  "match_score": 0.692,
+  "ok": false
+ }
+}

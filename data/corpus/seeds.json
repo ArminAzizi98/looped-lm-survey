@@ -1,0 +1,264 @@
+[
+ {
+  "arxiv_id": "1807.03819",
+  "title": "Universal Transformers",
+  "directions": [
+   "citations"
+  ],
+  "max": 3000
+ },
+ {
+  "arxiv_id": "2301.13196",
+  "title": "Looped Transformers as Programmable Computers",
+  "directions": [
+   "citations"
+  ],
+  "max": 3000
+ },
+ {
+  "arxiv_id": "2311.12424",
+  "title": "Looped Transformers are Better at Learning Learning Algorithms",
+  "directions": [
+   "citations"
+  ],
+  "max": 3000
+ },
+ {
+  "arxiv_id": "2409.15647",
+  "title": "Looped Transformers for Length Generalization",
+  "directions": [
+   "citations"
+  ],
+  "max": 3000
+ },
+ {
+  "arxiv_id": "2502.17416",
+  "title": "Reasoning with Latent Thoughts: On the Power of Looped Transformers",
+  "directions": [
+   "citations",
+   "references"
+  ],
+  "max": 3000
+ },
+ {
+  "arxiv_id": "2502.05171",
+  "title": "Scaling up Test-Time Compute with Latent Reasoning (Huginn)",
+  "directions": [
+   "citations",
+   "references"
+  ],
+  "max": 3000
+ },
+ {
+  "arxiv_id": "2507.10524",
+  "title": "Mixture-of-Recursions",
+  "directions": [
+   "citations",
+   "references"
+  ],
+  "max": 3000
+ },
+ {
+  "arxiv_id": "2510.25741",
+  "title": "Scaling Latent Reasoning via Looped Language Models (Ouro)",
+  "directions": [
+   "citations",
+   "references"
+  ],
+  "max": 3000
+ },
+ {
+  "arxiv_id": "2410.20672",
+  "title": "Relaxed Recursive Transformers",
+  "directions": [
+   "citations"
+  ],
+  "max": 3000
+ },
+ {
+  "arxiv_id": "2506.21734",
+  "title": "Hierarchical Reasoning Model",
+  "directions": [
+   "citations"
+  ],
+  "max": 3000
+ },
+ {
+  "arxiv_id": "2510.04871",
+  "title": "Less is More: Recursive Reasoning with Tiny Networks",
+  "directions": [
+   "citations"
+  ],
+  "max": 3000
+ },
+ {
+  "arxiv_id": "2310.10845",
+  "title": "CoTFormer",
+  "directions": [
+   "citations"
+  ],
+  "max": 3000
+ },
+ {
+  "arxiv_id": "2505.20674",
+  "title": "PonderLM",
+  "directions": [
+   "citations"
+  ],
+  "max": 3000
+ },
+ {
+  "arxiv_id": "2511.07384",
+  "title": "Retrofitted Recurrence",
+  "directions": [
+   "citations"
+  ],
+  "max": 3000
+ },
+ {
+  "arxiv_id": "2104.06022",
+  "title": "Lessons on Parameter Sharing across Layers in Transformers",
+  "directions": [
+   "citations"
+  ],
+  "max": 3000
+ },
+ {
+  "arxiv_id": "2202.05826",
+  "title": "End-to-end Algorithm Synthesis with Recurrent Networks",
+  "directions": [
+   "citations"
+  ],
+  "max": 3000
+ },
+ {
+  "arxiv_id": "2106.04537",
+  "title": "Can You Learn an Algorithm? (Deep Thinking)",
+  "directions": [
+   "citations"
+  ],
+  "max": 3000
+ },
+ {
+  "arxiv_id": "2107.05407",
+  "title": "PonderNet",
+  "directions": [
+   "citations"
+  ],
+  "max": 3000
+ },
+ {
+  "arxiv_id": "1603.08983",
+  "title": "Adaptive Computation Time",
+  "directions": [
+   "citations"
+  ],
+  "max": 2500
+ },
+ {
+  "arxiv_id": "1909.01377",
+  "title": "Deep Equilibrium Models",
+  "directions": [
+   "citations"
+  ],
+  "max": 2500
+ },
+ {
+  "arxiv_id": "2412.06769",
+  "title": "Coconut",
+  "directions": [
+   "citations"
+  ],
+  "max": 2000
+ },
+ {
+  "arxiv_id": "2604.21106",
+  "title": "Iso-Depth Scaling Laws",
+  "directions": [
+   "citations",
+   "references"
+  ],
+  "max": 3000
+ },
+ {
+  "arxiv_id": "2604.12946",
+  "title": "Parcae",
+  "directions": [
+   "citations",
+   "references"
+  ],
+  "max": 3000
+ },
+ {
+  "arxiv_id": "2512.14693",
+  "title": "Universal Reasoning Model",
+  "directions": [
+   "citations"
+  ],
+  "max": 3000
+ },
+ {
+  "arxiv_id": "2510.07358",
+  "title": "Encode, Think, Decode",
+  "directions": [
+   "citations"
+  ],
+  "max": 3000
+ },
+ {
+  "arxiv_id": "2603.08391",
+  "title": "Adaptive Loops and Memory in Transformers",
+  "directions": [
+   "citations"
+  ],
+  "max": 3000
+ },
+ {
+  "arxiv_id": "2402.13572",
+  "title": "AlgoFormer",
+  "directions": [
+   "citations"
+  ],
+  "max": 3000
+ },
+ {
+  "arxiv_id": "2610.00673",
+  "title": "Closing the Loop: Practical Training Recipes",
+  "directions": [
+   "references"
+  ],
+  "max": 3000
+ },
+ {
+  "arxiv_id": "2609.36636",
+  "title": "What Makes Recurrence Effective in Looped LMs",
+  "directions": [
+   "references"
+  ],
+  "max": 3000
+ },
+ {
+  "arxiv_id": "2604.11791",
+  "title": "A Mechanistic Analysis of Looped Reasoning LMs",
+  "directions": [
+   "references"
+  ],
+  "max": 3000
+ },
+ {
+  "arxiv_id": "2505.16782",
+  "title": "Reasoning Beyond Language (latent CoT survey)",
+  "directions": [
+   "references"
+  ],
+  "max": 3000
+ },
+ {
+  "arxiv_id": "2507.06203",
+  "title": "A Survey on Latent Reasoning",
+  "directions": [
+   "references"
+  ],
+  "max": 3000
+ }
+]

@@ -4,7 +4,7 @@ Seyedarmin Azizi, Erfan Baghaei Potraghloo, Massoud Pedram (University of Southe
 
 **Paper:** [PDF](https://arminazizi98.github.io/looped-lm-survey/looped-lm-survey.pdf) | **Project page:** https://arminazizi98.github.io/looped-lm-survey/
 
-This repository lists the 560 core papers on looped (recurrent-depth) language models identified by the survey's systematic search (snapshot 2026-10-06), and releases the claims ledger of 1211 verified claims with their comparison regimes.
+This repository lists the 557 core papers on looped (recurrent-depth) language models identified by the survey's systematic search (snapshot 2026-10-06), and releases the claims ledger of 1211 verified claims with their comparison regimes.
 
 A looped language model applies one shared block of Transformer layers several times to the same tokens, so its effective depth can grow without adding parameters.
 
@@ -671,11 +671,30 @@ A looped language model applies one shared block of Transformer layers several t
 ## Data
 
 - `data/core_papers.csv`: every core paper with topic, link and the one-line screening reason.
-- `data/screening_decisions.csv`: every screened paper (2667) with its decision (core, adjacent or excluded) and the reason.
-- `data/extraction_records.jsonl`: one extraction record per paper and extraction group, with taxonomy labels, comparison regimes, claims, numbers, artifact links and a verbatim quotation with its location for each claim and number. A paper can appear in more than one group.
-- `data/claims_ledger.csv`: verified claims with comparison regime, model scale and the supporting quotation.
-- `data/quote_verification.json`: result of the automatic check that every quotation in the extraction records appears in the paper's text.
-- `data/gap_keyword_hits.json` and `data/gap_audit.json`: keyword hits and manual audit notes behind the research-gap table.
+- `data/screening_decisions.csv`: every screened paper (2,664) with its decision (core, adjacent or excluded) and the reason.
+- `data/extract/<group>.jsonl`: extraction records with taxonomy labels, comparison regimes, claims, numbers, artifact links and a verbatim quotation with its location for each claim and number. A paper can appear in more than one group.
+- `data/extract/verification_report.json`: result of the automatic check that every quotation in the extraction records appears in the paper's text.
+- `data/ledger/claims.csv`: the claims ledger, with comparison regime, model scale, the supporting quotation and whether it was verified.
+- `data/corpus/`: search results (arXiv queries, citation snowballing, full-text references), screening records, deduplication list, metadata of non-arXiv papers, and the keyword hits (`gap_map.json`) and manual audit notes (`gap_map_audit.json`) behind the research-gap table.
+- `paper/figures/`: the generated count macros, tables and data figures as included in the paper.
+
+Abstracts are included only for arXiv records (arXiv metadata is CC0). Full texts of the cited papers are not redistributed.
+
+## Reproducing the counts, tables and figures
+
+```sh
+pip install -r requirements.txt
+sh scripts/regenerate.sh
+git diff --stat -- paper/figures/*.tex data
+```
+
+`regenerate.sh` rewrites the files in `paper/figures/` from the data. The quote check, the claims ledger, the survey-coverage counts and four figures also need the full texts of the cited arXiv papers. Download them first (this needs `pdftotext` from poppler, and the script waits 3.5 s between requests to respect arXiv rate limits):
+
+```sh
+python3 scripts/fetch_fulltext.py data/corpus/fulltext_ids.txt
+```
+
+The latest arXiv version of a paper can differ from the version we used, so a few quotations may no longer match. `scripts/gap_map.py` also reads the abstracts of non-arXiv papers, which are not included, so its shipped output `data/corpus/gap_map.json` is the one used in the paper.
 
 ## Contributing
 
@@ -694,4 +713,4 @@ Missing a paper or found an error? Please open an issue or a pull request with t
 
 ## License
 
-The paper and the data in this repository are released under CC BY 4.0 (see `LICENSE`). Quotations from cited papers remain the work of their authors and are included only to make each claim checkable.
+The paper and the data in this repository are released under CC BY 4.0 (see `LICENSE`), and the scripts under the MIT license (see `scripts/LICENSE`). Quotations from cited papers remain the work of their authors and are included only to make each claim checkable.
