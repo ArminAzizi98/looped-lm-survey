@@ -2,7 +2,7 @@
 
 Seyedarmin Azizi, Erfan Baghaei Potraghloo, Massoud Pedram (University of Southern California (USC), USA)
 
-**Paper:** [PDF](https://arminazizi98.github.io/looped-lm-survey/looped-lm-survey.pdf) | **Project page:** https://arminazizi98.github.io/looped-lm-survey/
+**Paper:** [Preprints.org, DOI 10.20944/preprints202610.1404.v1](https://doi.org/10.20944/preprints202610.1404.v1) | [PDF](https://arminazizi98.github.io/looped-lm-survey/looped-lm-survey.pdf) | **Project page:** https://arminazizi98.github.io/looped-lm-survey/
 
 This repository lists the 557 core papers on looped (recurrent-depth) language models identified by the survey's systematic search (snapshot 2026-10-06), and releases the claims ledger of 1211 verified claims with their comparison regimes.
 
@@ -707,7 +707,9 @@ Missing a paper or found an error? Please open an issue or a pull request with t
   title = {Looped Language Models: A Survey and Meta-Analysis of Recurrent-Depth Transformers},
   author = {Azizi, Seyedarmin and Baghaei Potraghloo, Erfan and Pedram, Massoud},
   year = {2026},
-  howpublished = {\url{https://github.com/ArminAzizi98/looped-lm-survey}}
+  publisher = {Preprints},
+  doi = {10.20944/preprints202610.1404.v1},
+  url = {https://doi.org/10.20944/preprints202610.1404.v1}
 }
 ```
 

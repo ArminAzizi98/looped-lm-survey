@@ -16,6 +16,7 @@ authors:
 license: CC-BY-4.0
 repository-code: https://github.com/ArminAzizi98/looped-lm-survey
 url: https://arminazizi98.github.io/looped-lm-survey/
+doi: 10.20944/preprints202610.1404.v1
 date-released: 2026-10-09
 preferred-citation:
   type: generic
@@ -28,4 +29,5 @@ preferred-citation:
     - given-names: "Massoud"
       family-names: "Pedram"
   year: 2026
-  url: https://github.com/ArminAzizi98/looped-lm-survey
+  doi: 10.20944/preprints202610.1404.v1
+  url: https://doi.org/10.20944/preprints202610.1404.v1
